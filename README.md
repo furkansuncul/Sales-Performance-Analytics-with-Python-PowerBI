@@ -17,11 +17,10 @@ Projenin temelinde yer alan 1000 satırlık satış verisi, Python'ın `pandas`,
 
 ### 3. Görsel Analiz ve AI Entegrasyonu
 - **Kök Neden Analizi (Waterfall Chart):** Haziran ayındaki performans değişiminin hangi ürünlerden kaynaklandığı analiz edildi.
-- **Forecasting (Tahminleme):** Power BI'ın AI yetenekleri kullanılarak gelecek 3 ayın ciro beklentisi modellendi.
 - **UX/UI Tasarımı:** Kullanıcı dostu, hizalı ve renk uyumlu bir dashboard arayüzü tasarlandı.
 
 ## 📈 Dashboard Görünümü
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](dashboard1.png)
 
 ## 📂 Proje İçeriği
 - `Salesdata.py`: Veriyi üreten Python scripti.
