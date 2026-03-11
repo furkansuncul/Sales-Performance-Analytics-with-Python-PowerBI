@@ -1,0 +1,1001 @@
+Order_ID,Date,Customer_Name,City,Category,Product,Sales_Amount,Quantity,Profit
+ORD-1000,2024-09-14,Wayne Weiss,Tinaborough,Teknoloji,Laptop,17915,5,2619.12068128314
+ORD-1001,2025-06-23,Brian Burch,West Carolinechester,Ofis Malzemeleri,Kalem Seti,171,3,27.281975213789433
+ORD-1002,2026-01-02,Daniel Holden,Thomasland,Ofis Malzemeleri,Dosya,1780,4,488.7712883095474
+ORD-1003,2025-01-02,Fernando Smith,Brownbury,Mobilya,Lamba,830,2,136.18895984497743
+ORD-1004,2024-12-28,Isaiah Reed,North Jacquelineville,Mobilya,Masa,1296,4,229.34299766999416
+ORD-1005,2024-11-02,Joel Blankenship,Camerontown,Mobilya,Lamba,29,1,4.178287537821372
+ORD-1006,2025-07-24,Eric Mays,West Frederickshire,Ofis Malzemeleri,Dosya,866,2,214.03160364320092
+ORD-1007,2025-11-12,Brandon Cervantes,Wolfland,Ofis Malzemeleri,Dosya,265,1,35.04884843601702
+ORD-1008,2024-10-05,Kevin Rogers,Thompsonview,Teknoloji,Monitör,14772,3,2472.626040092507
+ORD-1009,2025-08-05,Jaime Lewis,Anthonyview,Mobilya,Masa,615,5,83.43741232813557
+ORD-1010,2024-10-29,William Tate,Farleyberg,Mobilya,Masa,832,4,225.6512233687805
+ORD-1011,2024-04-05,Kenneth Boyle,Andrewstad,Ofis Malzemeleri,Zımba,1536,4,366.8817055620949
+ORD-1012,2025-02-25,Erika Berg,Scotthaven,Mobilya,Masa,20,1,2.6776897836868283
+ORD-1013,2024-08-21,John Benjamin,Port Patricktown,Mobilya,Sandalye,1065,5,269.996026871577
+ORD-1014,2024-03-27,Ryan Harper,Denisebury,Teknoloji,Monitör,14992,4,3752.512316909735
+ORD-1015,2025-01-07,Lisa Hunter,East Jessicaview,Ofis Malzemeleri,Zımba,955,5,280.41692022638136
+ORD-1016,2024-10-28,Destiny Curtis,South Craigberg,Mobilya,Kitaplık,700,5,209.82884475309402
+ORD-1017,2024-12-19,Arthur Davis,West Kelly,Teknoloji,Monitör,8420,4,1453.9368773096996
+ORD-1018,2025-04-19,John Khan,Johnsonview,Teknoloji,Telefon,1060,1,119.70427776088414
+ORD-1019,2025-03-26,Edgar Willis,South Christyshire,Teknoloji,Monitör,176,1,26.65483445265479
+ORD-1020,2024-07-29,Arthur Johnson,Andersonview,Mobilya,Masa,368,4,100.26682799925008
+ORD-1021,2024-08-29,Holly Lyons,Gabrielland,Mobilya,Lamba,2355,5,413.29179221907
+ORD-1022,2026-01-13,Cody Bean,Patelborough,Teknoloji,Monitör,7344,3,1493.4657535278027
+ORD-1023,2025-11-28,Sharon Stanley,Lake Michael,Mobilya,Sandalye,180,1,27.33288026071686
+ORD-1024,2025-11-25,Erin Wilson,Port Kevin,Teknoloji,Klavye,9364,4,2164.1482805389987
+ORD-1025,2025-10-20,Christopher Reynolds,Lake Craigberg,Mobilya,Lamba,1685,5,186.5088537756552
+ORD-1026,2025-04-25,Tina Williams,North Rachelborough,Ofis Malzemeleri,Dosya,464,2,127.69251857063854
+ORD-1027,2025-06-19,Matthew Davis,Johnsonshire,Ofis Malzemeleri,Kağıt,784,2,151.60311314992194
+ORD-1028,2024-04-11,Karen Martin,Kevinstad,Ofis Malzemeleri,Kağıt,327,1,45.55155206011674
+ORD-1029,2025-07-14,Adam Gibson,Timothymouth,Teknoloji,Telefon,6990,2,1380.4580941148165
+ORD-1030,2024-05-28,Gloria Lopez,West Hannahbury,Teknoloji,Laptop,7465,5,2007.1502900719865
+ORD-1031,2024-07-27,Shannon Hernandez,Alexanderstad,Ofis Malzemeleri,Kalem Seti,289,1,40.84152539246462
+ORD-1032,2025-07-31,Alicia Maldonado,Sandersshire,Ofis Malzemeleri,Kalem Seti,223,1,42.97216744259949
+ORD-1033,2024-08-21,Jillian White,Cherylport,Mobilya,Kitaplık,1875,5,284.6991178292521
+ORD-1034,2024-05-08,Tyler Garrison,Cobbfurt,Teknoloji,Klavye,11415,5,1324.8743204936313
+ORD-1035,2025-06-08,Michael York,Cassandraton,Ofis Malzemeleri,Zımba,584,4,96.13371429789997
+ORD-1036,2024-12-19,Megan Matthews,Timothyland,Teknoloji,Laptop,2670,3,644.0822271901254
+ORD-1037,2024-09-09,Roberta Nunez,Mezafort,Teknoloji,Laptop,8580,2,961.1212190775102
+ORD-1038,2024-12-22,Elizabeth Pugh,Christensenland,Mobilya,Lamba,644,4,86.97810334881925
+ORD-1039,2024-04-22,Mark Chang,Georgeshire,Teknoloji,Klavye,20030,5,4619.654867470121
+ORD-1040,2024-08-30,Patricia Baxter,Anthonymouth,Teknoloji,Telefon,372,3,83.26294228414409
+ORD-1041,2024-04-17,Susan Fleming,West Michaelstad,Teknoloji,Telefon,1551,1,303.2097312360388
+ORD-1042,2024-03-18,Joshua Edwards,Chanside,Mobilya,Kitaplık,2130,5,573.2046664413967
+ORD-1043,2025-06-08,Drew Miller,Kaitlyntown,Teknoloji,Telefon,1448,1,361.8180836275841
+ORD-1044,2024-07-04,Patrick Garza,Sandrabury,Teknoloji,Klavye,14097,3,3258.5018139701447
+ORD-1045,2025-10-30,Danny Griffin,Sheenamouth,Ofis Malzemeleri,Dosya,393,1,66.11668345663628
+ORD-1046,2024-11-02,Bailey Rodriguez,Kennethton,Ofis Malzemeleri,Kağıt,217,1,35.54847702738671
+ORD-1047,2025-01-03,Brian Bridges,New Matthew,Teknoloji,Monitör,834,3,214.4311979321704
+ORD-1048,2026-02-20,Susan Black,Jenkinshaven,Teknoloji,Laptop,5570,2,1209.8521929490296
+ORD-1049,2024-11-15,Scott Esparza,Port Allisonview,Teknoloji,Monitör,11412,4,3248.5200781930507
+ORD-1050,2026-02-14,James Benitez,Howardstad,Ofis Malzemeleri,Kalem Seti,69,3,19.061578503494236
+ORD-1051,2025-09-12,Eric Johnston,New Brian,Teknoloji,Laptop,19660,4,3398.025594773822
+ORD-1052,2025-11-29,Jennifer Kelley,Johnmouth,Mobilya,Lamba,1122,3,169.48375834675747
+ORD-1053,2026-01-02,Christopher Beck,Lake Brad,Ofis Malzemeleri,Zımba,202,2,59.1652823108962
+ORD-1054,2024-08-10,Sheila Gill,Ryanberg,Mobilya,Lamba,745,5,196.26675936407472
+ORD-1055,2024-05-31,Zachary Burke,Savannahside,Teknoloji,Telefon,11215,5,1646.6930597293194
+ORD-1056,2025-06-17,Donald Golden,Hamptonport,Ofis Malzemeleri,Dosya,2235,5,379.34717914647433
+ORD-1057,2024-11-07,William Brooks,New Anthonyport,Teknoloji,Laptop,1476,4,157.32327354727607
+ORD-1058,2024-07-15,Roberta Ramsey,Christopherchester,Mobilya,Lamba,103,1,11.510123702201138
+ORD-1059,2025-01-15,William Harrison,West Samanthatown,Mobilya,Sandalye,23,1,4.670162220589264
+ORD-1060,2024-11-26,Ann Miller,North Emma,Ofis Malzemeleri,Kalem Seti,771,3,176.03885316188845
+ORD-1061,2024-12-11,John Velazquez,Bondville,Teknoloji,Monitör,5655,3,1403.9362855218467
+ORD-1062,2025-10-14,Linda Hart,Robinburgh,Teknoloji,Laptop,2440,1,281.5795439007378
+ORD-1063,2026-01-22,Thomas Juarez,Lake Amyshire,Teknoloji,Laptop,11470,5,2517.308591380221
+ORD-1064,2025-12-21,Brandon Olson,Chasetown,Mobilya,Masa,1960,4,229.75518092101692
+ORD-1065,2024-07-28,Stephen Henry,Lopezland,Mobilya,Kitaplık,1675,5,431.1121934074968
+ORD-1066,2024-09-12,Erin Griffith,New Veronica,Teknoloji,Laptop,6780,3,1345.3765763665035
+ORD-1067,2024-11-16,Tara Hancock,Woodsburgh,Teknoloji,Klavye,784,2,219.28134736989236
+ORD-1068,2025-07-26,Brian Howard,Tapiatown,Ofis Malzemeleri,Dosya,450,1,73.33239732757359
+ORD-1069,2024-07-24,Diane Norris,Buchananchester,Mobilya,Kitaplık,383,1,45.50879904327345
+ORD-1070,2026-02-28,Stephanie Miller,Lake Tammie,Ofis Malzemeleri,Kağıt,331,1,58.56184006332541
+ORD-1071,2024-04-22,Stephen Wagner,East Eric,Ofis Malzemeleri,Kalem Seti,261,1,42.14829113528341
+ORD-1072,2025-07-19,Joseph Torres,Lake Brandiport,Ofis Malzemeleri,Kağıt,996,4,209.85032990637586
+ORD-1073,2025-01-17,Sheri Mills,Schultzburgh,Teknoloji,Telefon,14997,3,2938.2544812498895
+ORD-1074,2024-05-07,Dr. Amanda Hall,Patrickfort,Ofis Malzemeleri,Dosya,20,1,5.736635953366993
+ORD-1075,2025-03-21,Ashley Kelly,Brianshire,Teknoloji,Monitör,852,2,93.13327238048204
+ORD-1076,2025-07-07,Walter Collins,West Thomasville,Mobilya,Kitaplık,1275,3,186.8217986468756
+ORD-1077,2025-10-20,Linda Burton,Chaseview,Teknoloji,Monitör,518,2,137.2662261523127
+ORD-1078,2024-05-04,Brittany Dean,Bergborough,Teknoloji,Telefon,18908,4,3956.872689952611
+ORD-1079,2024-03-09,Lisa King,Port Stephen,Mobilya,Masa,443,1,106.47344455763421
+ORD-1080,2024-12-31,Carolyn Allen,Courtneyport,Teknoloji,Telefon,2844,1,411.401681631029
+ORD-1081,2025-08-11,Michael Hunt,Silvaside,Ofis Malzemeleri,Kalem Seti,1975,5,283.8453719157416
+ORD-1082,2025-02-13,Andrew Lloyd,New Robertmouth,Mobilya,Kitaplık,156,2,31.743605826636088
+ORD-1083,2024-07-27,Jamie Perkins,Port Lori,Ofis Malzemeleri,Dosya,1244,4,264.12211070971574
+ORD-1084,2025-07-13,Ruth Martinez,East Devonport,Ofis Malzemeleri,Dosya,176,2,50.900376270567165
+ORD-1085,2025-05-11,Nathan Davis,Curtismouth,Ofis Malzemeleri,Kağıt,944,2,247.84766185527013
+ORD-1086,2025-02-11,Wendy Murray,Jonesburgh,Mobilya,Masa,870,5,151.39390269285275
+ORD-1087,2025-10-16,Brianna Walker,East Angela,Mobilya,Lamba,36,1,8.290903677132446
+ORD-1088,2024-12-16,Amy Shaw,Marksland,Teknoloji,Laptop,17776,4,3501.6641011919637
+ORD-1089,2025-04-05,Brett Grimes,Teresatown,Mobilya,Masa,1644,4,331.43925424681066
+ORD-1090,2025-08-20,Adrian Wallace,Burnsfurt,Teknoloji,Laptop,8442,3,2475.1520894160362
+ORD-1091,2024-09-17,Kellie Reid,South Melissa,Mobilya,Masa,685,5,160.37547797699804
+ORD-1092,2025-05-08,Joshua Meyer,West Kaitlinside,Mobilya,Sandalye,54,1,7.657556587601781
+ORD-1093,2025-08-05,Laura Anderson,New Sandra,Ofis Malzemeleri,Kağıt,855,5,177.1119102677483
+ORD-1094,2024-08-25,Natasha Wall,Richardfurt,Mobilya,Lamba,606,3,156.08531783786682
+ORD-1095,2025-07-21,Christopher Fox,North Louis,Teknoloji,Laptop,1346,1,344.7275364304998
+ORD-1096,2025-10-08,Cynthia Williams,Claytonport,Ofis Malzemeleri,Kağıt,174,1,38.2639620858888
+ORD-1097,2024-10-28,Kaitlyn Stewart,New Jacob,Ofis Malzemeleri,Kağıt,188,4,29.85024514786486
+ORD-1098,2024-07-01,Lori Franklin,Alexandermouth,Ofis Malzemeleri,Kalem Seti,112,1,12.708699692492075
+ORD-1099,2025-07-06,Alicia Poole,East Gregory,Mobilya,Sandalye,2395,5,288.6712057530293
+ORD-1100,2024-10-31,Christopher Bell,New Thomasstad,Mobilya,Masa,141,3,16.89869388134779
+ORD-1101,2024-03-07,Jessica Allen,South Carrie,Mobilya,Kitaplık,1544,4,377.65824858582727
+ORD-1102,2025-05-20,Dale Munoz,East Matthewburgh,Mobilya,Kitaplık,564,3,143.2827930284885
+ORD-1103,2025-12-16,Frank Martin,Cheyennefurt,Teknoloji,Laptop,13985,5,1849.1417264943836
+ORD-1104,2025-01-06,Charles Burke,Brandonfurt,Mobilya,Lamba,702,2,115.80079232020253
+ORD-1105,2025-08-28,Nicholas Barrett,West Lauren,Ofis Malzemeleri,Kağıt,325,5,33.13012913420922
+ORD-1106,2025-05-29,Sharon Rogers,Fieldsbury,Mobilya,Kitaplık,371,1,99.72800075167491
+ORD-1107,2024-03-19,Todd Hughes,Gonzalezland,Teknoloji,Laptop,16350,5,4349.783289773958
+ORD-1108,2024-11-01,Alicia Walsh,South Chad,Ofis Malzemeleri,Kağıt,900,3,144.20432382900464
+ORD-1109,2026-01-03,Nicholas West,Port Heather,Ofis Malzemeleri,Zımba,562,2,125.34255186749888
+ORD-1110,2024-05-25,Michael Macias,New Lucas,Ofis Malzemeleri,Dosya,180,2,25.54962454910925
+ORD-1111,2025-02-21,Alexis Robinson,Rhodesberg,Ofis Malzemeleri,Zımba,312,3,66.06423008459144
+ORD-1112,2025-01-01,Willie Hardin,East Max,Mobilya,Lamba,320,4,32.82127751880423
+ORD-1113,2025-08-19,James Chapman,East Lisa,Mobilya,Masa,2065,5,423.0766633208462
+ORD-1114,2024-06-08,Holly Boyle,South Russell,Mobilya,Masa,1470,3,402.5241992786652
+ORD-1115,2024-08-11,Stephanie Garcia,Schmidtland,Teknoloji,Klavye,3446,2,677.0237823876537
+ORD-1116,2024-10-23,Thomas Cameron,Port Pennymouth,Teknoloji,Monitör,20260,5,5703.42242611233
+ORD-1117,2025-10-02,Kelli Evans,Victoriahaven,Teknoloji,Monitör,14728,4,4331.507907681438
+ORD-1118,2024-04-15,Julie Salas,East Christina,Teknoloji,Klavye,14024,4,3247.5043054096964
+ORD-1119,2025-01-12,Lynn Smith,Adriennetown,Ofis Malzemeleri,Dosya,266,2,28.580121855347837
+ORD-1120,2025-04-01,Drew Jackson,Travisport,Mobilya,Sandalye,48,4,11.694424553515734
+ORD-1121,2025-06-21,Miss Nicole Grant,Smithview,Mobilya,Kitaplık,48,4,13.57565409815555
+ORD-1122,2025-01-18,Jonathan Hernandez,South Nathaniel,Teknoloji,Monitör,15868,4,2102.752144446993
+ORD-1123,2025-02-01,Nicolas Gardner,Lake Williamview,Mobilya,Lamba,815,5,185.0506765584222
+ORD-1124,2024-05-15,Donald Woods,North Lindsey,Ofis Malzemeleri,Dosya,638,2,172.922910811572
+ORD-1125,2024-07-12,Roger Ramsey,Marktown,Teknoloji,Monitör,16788,4,1848.2744494979418
+ORD-1126,2025-09-05,Kelly Davis,Port Thomasbury,Ofis Malzemeleri,Kalem Seti,53,1,7.398194368009823
+ORD-1127,2024-04-29,Dean Maddox,East Jared,Mobilya,Kitaplık,249,1,68.92878890690713
+ORD-1128,2025-07-19,Amy Martinez,Leslieshire,Mobilya,Lamba,510,2,108.30711341081825
+ORD-1129,2025-12-31,Emily Brown,Smithside,Mobilya,Lamba,167,1,21.692137359842402
+ORD-1130,2025-12-05,Barbara Walker,West Paulborough,Teknoloji,Laptop,8264,2,1843.7772990788358
+ORD-1131,2024-03-22,Dr. Deborah Kim,New Tiffany,Ofis Malzemeleri,Kağıt,990,3,176.9043668012161
+ORD-1132,2024-12-04,Christopher Fowler,East Christopher,Ofis Malzemeleri,Kalem Seti,1535,5,306.09740713447565
+ORD-1133,2025-10-25,Michele Richards,Butlerstad,Mobilya,Lamba,760,5,85.38468031168804
+ORD-1134,2025-04-18,Matthew Ortiz,Davidville,Teknoloji,Klavye,621,3,185.201123474
+ORD-1135,2026-01-01,Randall Peterson,Catherineport,Teknoloji,Monitör,14910,5,3414.308647828756
+ORD-1136,2025-12-01,Richard Adams,Nelsonberg,Mobilya,Lamba,244,4,36.21559247240228
+ORD-1137,2025-01-19,Elizabeth Gould,Robertburgh,Teknoloji,Telefon,21025,5,4527.078757726895
+ORD-1138,2025-12-02,Steven Baxter,Saraberg,Teknoloji,Telefon,6910,2,1632.5951161637631
+ORD-1139,2025-07-22,Jason Gonzalez,Robertshire,Ofis Malzemeleri,Dosya,1287,3,347.22975642639665
+ORD-1140,2026-02-10,Melissa Jordan,Richardburgh,Mobilya,Kitaplık,318,1,56.2731135523666
+ORD-1141,2025-05-21,James Gray,Lake Michael,Ofis Malzemeleri,Kalem Seti,728,4,175.0489504972712
+ORD-1142,2024-05-21,Aaron Jackson Jr.,Lake Maryberg,Teknoloji,Klavye,579,3,74.82301140089629
+ORD-1143,2026-02-01,Kristin Lambert,Christopherchester,Mobilya,Lamba,396,1,40.03840559812473
+ORD-1144,2024-12-31,Joseph Smith,Meyerstad,Mobilya,Masa,855,5,179.81227660028296
+ORD-1145,2025-11-01,Luis Gonzales,Brooksview,Teknoloji,Laptop,2920,4,431.49188915120476
+ORD-1146,2025-09-26,Martha Harris,New Kimberly,Teknoloji,Telefon,2486,2,434.77829918791264
+ORD-1147,2025-10-30,Kayla Davis,Carterview,Ofis Malzemeleri,Dosya,2055,5,313.09836019265
+ORD-1148,2025-09-17,Joseph Smith,Lake Austinburgh,Mobilya,Kitaplık,246,2,56.669784925685455
+ORD-1149,2025-01-04,Austin Ward,Port Paulshire,Teknoloji,Telefon,11610,3,3303.1305890765507
+ORD-1150,2024-09-23,Dawn Morgan,North Erika,Ofis Malzemeleri,Dosya,132,2,30.57860245033587
+ORD-1151,2025-06-12,Anthony Maldonado,Lake Michael,Ofis Malzemeleri,Zımba,795,5,86.15522740493815
+ORD-1152,2024-10-15,Sheila Hooper,Jonesbury,Ofis Malzemeleri,Zımba,372,2,78.79307477109124
+ORD-1153,2025-01-30,Mr. Vincent Williams,New Jacob,Mobilya,Lamba,1385,5,151.08119576393491
+ORD-1154,2024-09-06,Laura Cox,South Julia,Teknoloji,Klavye,1810,2,264.24579249372283
+ORD-1155,2025-03-19,Natalie Boyd,West Deborahport,Ofis Malzemeleri,Kağıt,624,2,168.81254016987126
+ORD-1156,2024-12-27,Heather Carter,Port Emilyshire,Teknoloji,Telefon,5280,4,1509.851472738623
+ORD-1157,2025-05-13,Jason Wright,North Carolineberg,Ofis Malzemeleri,Zımba,1968,4,287.6379926985632
+ORD-1158,2025-11-23,Julie Gamble,Maryville,Mobilya,Masa,124,4,29.82502123748686
+ORD-1159,2025-07-18,David Bryant,Sheppardland,Teknoloji,Laptop,16080,4,4238.273730434152
+ORD-1160,2025-07-25,Craig Peters,Hillborough,Ofis Malzemeleri,Zımba,1820,4,483.4954794219179
+ORD-1161,2025-11-24,Jennifer Charles,Laurabury,Teknoloji,Klavye,4536,1,958.6213505620779
+ORD-1162,2024-09-19,Monica Jenkins,Danielburgh,Teknoloji,Klavye,1088,2,214.98804365060093
+ORD-1163,2025-04-25,Timothy Robinson,Port Karenport,Teknoloji,Laptop,13410,3,3901.458837299237
+ORD-1164,2024-05-28,Amanda Hunter,Mcintoshville,Teknoloji,Telefon,438,2,98.09776468216162
+ORD-1165,2024-08-13,Bryan Scott,Port Melissaport,Ofis Malzemeleri,Dosya,160,5,19.86170917763731
+ORD-1166,2025-02-23,Robert Fletcher,Taylormouth,Mobilya,Masa,399,1,116.66409335441553
+ORD-1167,2025-02-03,Dawn Washington,Reyesshire,Mobilya,Lamba,1450,5,213.65513443480413
+ORD-1168,2025-09-18,Ethan Morrison,Dodsonbury,Ofis Malzemeleri,Kağıt,314,1,57.253776467391525
+ORD-1169,2025-09-22,Billy Fields,Palmerchester,Teknoloji,Laptop,4054,2,545.5608976673939
+ORD-1170,2025-02-17,Mackenzie Douglas,Port Heatherburgh,Ofis Malzemeleri,Kalem Seti,476,1,100.04208385064355
+ORD-1171,2025-01-28,David Long,New David,Teknoloji,Telefon,3525,5,939.8173952270514
+ORD-1172,2024-08-14,Andre Russell,Reillyside,Ofis Malzemeleri,Zımba,1308,4,135.65216127981623
+ORD-1173,2024-04-21,Maria Chen,North Aarontown,Teknoloji,Telefon,5338,2,1135.7418492811664
+ORD-1174,2026-02-10,Carmen Webb,New Kayla,Mobilya,Kitaplık,900,3,116.50828596773994
+ORD-1175,2026-01-07,Lydia Webb,Nortonport,Ofis Malzemeleri,Kalem Seti,93,1,19.70179141974981
+ORD-1176,2024-11-22,Pamela Bailey,Douglasfort,Ofis Malzemeleri,Kağıt,132,4,24.386628030723255
+ORD-1177,2026-01-31,Amanda Clark,East Crystalshire,Ofis Malzemeleri,Kalem Seti,252,4,72.93768609637988
+ORD-1178,2025-03-14,Dana Martinez,Jonesside,Ofis Malzemeleri,Zımba,1015,5,197.78253085183562
+ORD-1179,2026-02-24,Sharon Roberts,North Cathytown,Teknoloji,Telefon,6141,3,751.6149954076182
+ORD-1180,2025-08-03,Michelle White,Lake Courtneymouth,Ofis Malzemeleri,Zımba,310,5,54.433649424687026
+ORD-1181,2024-12-09,Mary Robinson,Eddieborough,Ofis Malzemeleri,Dosya,1134,3,207.81646707322892
+ORD-1182,2024-08-17,Anthony Zamora,Port Nathan,Mobilya,Kitaplık,428,1,122.92854873441094
+ORD-1183,2024-12-05,Kelly Shaw,Port Derekchester,Ofis Malzemeleri,Zımba,1020,3,186.9944187831856
+ORD-1184,2025-01-10,Nancy Jacobs,East Annaview,Teknoloji,Klavye,6222,3,991.9110856224297
+ORD-1185,2024-04-23,Jennifer Yang,New Ryan,Teknoloji,Telefon,1884,1,300.6393011777714
+ORD-1186,2025-07-22,Regina Andrews,Hernandezfort,Teknoloji,Laptop,3209,1,570.288160556554
+ORD-1187,2024-12-12,Kyle Bailey,Port Matthewchester,Mobilya,Kitaplık,672,3,171.03221223876804
+ORD-1188,2026-01-14,Johnny Ortega,Lake Danielhaven,Teknoloji,Klavye,3306,1,444.0600729066435
+ORD-1189,2024-08-06,Katelyn Young,South Jennifer,Mobilya,Sandalye,164,2,22.923706112455136
+ORD-1190,2025-12-20,Allen Bennett,Mcdonaldside,Teknoloji,Klavye,6458,2,860.5424107166095
+ORD-1191,2024-04-17,Andrea Smith,South Ericside,Ofis Malzemeleri,Dosya,648,4,105.54651567404592
+ORD-1192,2024-10-27,Nicholas Rios,Jessicaview,Ofis Malzemeleri,Dosya,424,2,46.054298825325766
+ORD-1193,2024-03-21,Anthony Mcmillan,South Robert,Mobilya,Lamba,152,1,29.81374389278296
+ORD-1194,2026-01-25,Jeffrey Young,Michelleton,Mobilya,Sandalye,484,4,85.50115995986388
+ORD-1195,2025-01-19,Olivia Duncan,North Williamshire,Mobilya,Lamba,564,2,118.9855285334879
+ORD-1196,2024-09-04,Adriana Mcknight,North Caroline,Teknoloji,Laptop,15140,5,3105.4217822460755
+ORD-1197,2025-11-09,Stephen Dean,Susanville,Ofis Malzemeleri,Kağıt,580,5,126.80133646074756
+ORD-1198,2025-12-10,Stacy White,Cunninghamside,Ofis Malzemeleri,Kalem Seti,390,5,90.5286160390765
+ORD-1199,2026-01-13,Rhonda Neal,Christinafurt,Ofis Malzemeleri,Kağıt,246,1,33.0670955188425
+ORD-1200,2024-10-29,Felicia Hill,South Joseport,Teknoloji,Klavye,3806,2,1115.6401608912245
+ORD-1201,2024-06-04,Taylor Nguyen,South Carolside,Teknoloji,Laptop,12668,4,1388.656402339381
+ORD-1202,2025-01-12,James Rodriguez,Joseburgh,Teknoloji,Laptop,8084,4,1629.3495203862228
+ORD-1203,2024-05-14,Samantha Benjamin,Ashleyberg,Teknoloji,Laptop,17108,4,3565.6141437983742
+ORD-1204,2024-10-31,Joshua Lewis,West Mary,Teknoloji,Telefon,9244,2,1351.8711578505377
+ORD-1205,2025-12-26,Kayla Powell,Morganchester,Teknoloji,Telefon,4094,2,447.6945279597914
+ORD-1206,2025-07-01,Shirley Conley,Port Ariel,Teknoloji,Laptop,2276,4,388.9588846427471
+ORD-1207,2024-03-03,Roger Townsend,North Gary,Mobilya,Masa,294,3,53.95521487353562
+ORD-1208,2025-11-15,Laura Hardy DDS,Reedshire,Ofis Malzemeleri,Zımba,944,2,183.73101067790444
+ORD-1209,2024-11-06,Cory Jordan,Millerside,Teknoloji,Klavye,8205,3,2385.6896123570227
+ORD-1210,2025-10-28,Sara Wallace,Derekland,Teknoloji,Monitör,19340,4,5639.841280740679
+ORD-1211,2026-02-19,Derrick Lawson,Timothyview,Teknoloji,Laptop,2838,3,384.1751213638199
+ORD-1212,2025-08-07,Felicia Morgan,North Brenda,Ofis Malzemeleri,Kalem Seti,542,2,134.4850837770062
+ORD-1213,2024-07-22,Donald Haas,West Markberg,Ofis Malzemeleri,Dosya,605,5,117.84362591980675
+ORD-1214,2025-05-17,Kendra Collins MD,Tammymouth,Mobilya,Sandalye,496,4,125.8910427745031
+ORD-1215,2025-12-05,James Walker,Port Yolandaview,Teknoloji,Telefon,11103,3,2156.1563905159746
+ORD-1216,2025-04-29,Lauren Washington,North Jasonhaven,Ofis Malzemeleri,Kalem Seti,1525,5,192.2635502375058
+ORD-1217,2024-06-04,Crystal Flores,Donnatown,Ofis Malzemeleri,Kalem Seti,740,2,95.18704564887659
+ORD-1218,2025-10-27,Dustin Ali,Port Danieltown,Teknoloji,Laptop,6870,2,787.4433632299189
+ORD-1219,2024-08-07,Timothy Lopez,Paulabury,Mobilya,Lamba,1650,5,410.8541994429305
+ORD-1220,2024-06-12,Anthony Prince,Port Joseph,Teknoloji,Monitör,6025,5,1396.5671980433776
+ORD-1221,2025-11-05,Rhonda Keller,Bautistamouth,Teknoloji,Telefon,1676,4,357.15196160969623
+ORD-1222,2025-08-05,Stephen Young,Chelseatown,Mobilya,Masa,316,1,55.304405822841694
+ORD-1223,2024-10-13,Christian Jackson,North Angela,Ofis Malzemeleri,Kağıt,395,1,70.01142172960273
+ORD-1224,2024-12-23,Cory Stein,Lake Williamport,Teknoloji,Monitör,350,2,71.26527735945076
+ORD-1225,2025-04-14,Tanner Sims,North Angelaview,Mobilya,Sandalye,912,2,104.57723647699086
+ORD-1226,2025-03-16,David Sanchez,West Joshua,Teknoloji,Laptop,14409,3,2712.574496523498
+ORD-1227,2025-08-25,Anthony Weaver,Jessestad,Ofis Malzemeleri,Zımba,290,5,51.277550104600024
+ORD-1228,2025-12-31,Jeffrey Bennett,Robinmouth,Teknoloji,Monitör,3316,4,428.1566064144604
+ORD-1229,2024-11-10,Mark Beasley,North Zacharyville,Mobilya,Lamba,2485,5,708.8870064122777
+ORD-1230,2024-06-18,Cheryl Gonzales,New Erin,Mobilya,Masa,464,2,95.64266783863906
+ORD-1231,2025-04-19,Richard Thomas,North Brandon,Ofis Malzemeleri,Kağıt,692,2,148.33108922702576
+ORD-1232,2025-05-02,Matthew Thomas,Michaelfort,Teknoloji,Klavye,3751,1,1006.1040060265609
+ORD-1233,2024-06-30,Sarah Jones,Port Joyce,Teknoloji,Klavye,4736,1,1219.3621745852502
+ORD-1234,2024-05-25,Christian Kennedy PhD,Jonathanburgh,Ofis Malzemeleri,Kağıt,465,1,120.69471570399406
+ORD-1235,2024-03-28,Kimberly Smith,New Robertoville,Teknoloji,Monitör,243,1,62.56544163641032
+ORD-1236,2025-12-18,Linda Oneill,Andradeshire,Mobilya,Kitaplık,294,1,80.10207796298998
+ORD-1237,2024-09-03,Desiree Walker,Milesborough,Mobilya,Lamba,825,3,173.78897643721857
+ORD-1238,2024-11-18,Michelle Phillips,Lyonshaven,Mobilya,Lamba,1632,4,390.77225749613984
+ORD-1239,2025-08-31,Bryan Mclaughlin,North Emmahaven,Ofis Malzemeleri,Zımba,206,1,50.512626829036826
+ORD-1240,2025-11-13,Dennis Suarez,North Markberg,Teknoloji,Laptop,8976,4,1806.5034868285393
+ORD-1241,2026-01-11,Angel Ramos,North Heather,Mobilya,Masa,68,2,9.38785744669953
+ORD-1242,2025-05-22,Gloria Clark,Jackmouth,Mobilya,Sandalye,878,2,88.82641651968099
+ORD-1243,2024-05-22,Tracy Sanders,New Terribury,Teknoloji,Klavye,1515,1,235.78640535943495
+ORD-1244,2024-05-23,Melissa Taylor,New Derrick,Ofis Malzemeleri,Kalem Seti,172,4,31.83974713793853
+ORD-1245,2024-11-03,Douglas Scott,Gonzalesbury,Ofis Malzemeleri,Dosya,313,1,75.70202708019801
+ORD-1246,2025-04-27,Mary Franco,Jonesbury,Mobilya,Kitaplık,1005,3,214.8067691919167
+ORD-1247,2025-11-15,Bradley Pearson,Lake Johnberg,Mobilya,Lamba,2135,5,569.3012827067233
+ORD-1248,2024-05-25,Jennifer Flynn,Brentville,Mobilya,Lamba,1736,4,511.1608233239498
+ORD-1249,2025-08-24,Damon Benjamin,Shannonbury,Mobilya,Masa,48,2,13.822987236988372
+ORD-1250,2024-04-04,Steven Brown,East Leslie,Teknoloji,Monitör,4017,1,582.3677956011662
+ORD-1251,2024-03-08,Alexander Lee,East Timothyshire,Mobilya,Masa,178,1,31.284612568165812
+ORD-1252,2025-07-31,William Short,Aprilburgh,Mobilya,Kitaplık,135,3,14.614353995150518
+ORD-1253,2025-12-02,Adam Hill,Jenniferstad,Ofis Malzemeleri,Zımba,285,1,63.420924386331556
+ORD-1254,2025-12-08,Carolyn Oliver,Jamesbury,Mobilya,Masa,2245,5,487.0142651135698
+ORD-1255,2025-09-18,Ariana Chambers,Keithshire,Mobilya,Sandalye,114,1,17.094809876205975
+ORD-1256,2024-06-29,Michael Humphrey,Kennethland,Teknoloji,Monitör,8878,2,2291.5095396887496
+ORD-1257,2024-11-28,Ronald Garcia,East Michael,Mobilya,Kitaplık,322,2,86.5703236248459
+ORD-1258,2025-11-27,Mrs. Tamara Jackson,Saraberg,Teknoloji,Klavye,10075,5,2993.0350230604577
+ORD-1259,2025-11-10,Deanna Nielsen,Sanfordmouth,Ofis Malzemeleri,Dosya,44,2,5.360201499920669
+ORD-1260,2024-05-14,Jennifer Smith,East Charleschester,Teknoloji,Monitör,2933,1,629.5458606176329
+ORD-1261,2025-07-04,Jill Phillips,Susanside,Teknoloji,Telefon,6596,4,1442.4087100577765
+ORD-1262,2025-03-21,Mr. Christopher Williams,Kathleenchester,Mobilya,Sandalye,1488,3,417.2838696661504
+ORD-1263,2025-09-10,Jennifer Walker,New Kristin,Mobilya,Masa,417,1,104.10482306135057
+ORD-1264,2025-05-21,Diana Williams,New David,Teknoloji,Laptop,7972,2,1125.5219143376921
+ORD-1265,2025-09-05,Barbara Johnson,Pattersonside,Ofis Malzemeleri,Kağıt,1535,5,398.59299884835326
+ORD-1266,2025-10-30,Shannon White,South Jessicabury,Mobilya,Sandalye,2095,5,548.3158098695892
+ORD-1267,2025-01-02,Christopher Williams,Coopertown,Ofis Malzemeleri,Zımba,738,2,92.75173833291524
+ORD-1268,2025-04-26,Mario Miles,Port Michael,Mobilya,Lamba,1260,3,156.9781174165111
+ORD-1269,2024-06-07,Paul Sanchez,Lake Rachelhaven,Mobilya,Kitaplık,108,2,21.184108416457914
+ORD-1270,2024-04-25,Wanda Stephenson,South Calvinland,Mobilya,Kitaplık,340,2,81.84562378776513
+ORD-1271,2024-06-28,Joshua Johnson,Christopherport,Teknoloji,Monitör,7576,2,1319.352012095171
+ORD-1272,2026-01-13,David Fuller,Port William,Ofis Malzemeleri,Kağıt,446,2,47.67706619392993
+ORD-1273,2025-07-06,Philip Pearson,New Thomas,Ofis Malzemeleri,Zımba,854,2,198.08870134510977
+ORD-1274,2025-12-11,Debbie Cox,North Sierrastad,Mobilya,Kitaplık,794,2,149.72226463790156
+ORD-1275,2024-03-21,Lauren Patel,Valdezbury,Teknoloji,Laptop,11328,3,2593.735487769508
+ORD-1276,2025-07-17,Mark Frey,Smithstad,Mobilya,Sandalye,668,2,103.49457128975838
+ORD-1277,2025-05-10,Jennifer Johnson,Lake Cameronshire,Ofis Malzemeleri,Dosya,364,1,41.20867553257432
+ORD-1278,2025-08-03,Jordan Williams,Bushview,Mobilya,Sandalye,216,4,51.09146966957269
+ORD-1279,2026-02-04,Edward Smith,Saraport,Ofis Malzemeleri,Dosya,1168,4,139.1070453400643
+ORD-1280,2026-01-23,James Sparks,North Amber,Ofis Malzemeleri,Dosya,230,1,38.300881718573464
+ORD-1281,2025-09-30,David Sampson,New Caitlin,Teknoloji,Telefon,3864,1,987.2389223051825
+ORD-1282,2024-12-20,Joseph Hayden,Haynesmouth,Teknoloji,Monitör,7855,5,2126.9555246318987
+ORD-1283,2025-06-20,Jeffrey Campbell,Lake Brian,Teknoloji,Laptop,16808,4,3004.6567560796752
+ORD-1284,2025-05-25,Brittany Garcia,Carterview,Mobilya,Sandalye,245,5,59.000704048059035
+ORD-1285,2025-02-10,Keith Goodwin,Jenniferfort,Teknoloji,Laptop,18675,5,3216.783052009209
+ORD-1286,2024-04-05,Justin Morris,Williamsmouth,Mobilya,Lamba,100,5,25.898655796058396
+ORD-1287,2024-03-15,Shannon Glenn,South Diana,Teknoloji,Monitör,11565,5,3431.822879445091
+ORD-1288,2024-04-06,Mary Stephenson,Bryantown,Mobilya,Sandalye,1320,5,173.80864483543473
+ORD-1289,2024-04-03,Vanessa Rojas,Walshberg,Teknoloji,Monitör,6540,2,1669.6110639572
+ORD-1290,2025-05-19,Christopher Best,Rachelberg,Mobilya,Sandalye,58,2,13.146313747468739
+ORD-1291,2025-03-18,Henry Lawrence,West Willieshire,Mobilya,Sandalye,830,2,211.48438887989386
+ORD-1292,2024-08-20,Scott Marshall,Hughesland,Mobilya,Masa,956,4,236.09957970995882
+ORD-1293,2024-03-31,Katherine Perez,Craigtown,Ofis Malzemeleri,Dosya,340,5,51.636469980797244
+ORD-1294,2024-06-26,Ryan Stewart,North Tommy,Mobilya,Masa,816,2,95.49417980788823
+ORD-1295,2025-09-12,Haley Poole,Lake Brianberg,Mobilya,Kitaplık,470,2,48.550292198622856
+ORD-1296,2024-10-05,Amanda Hayes,Chrischester,Ofis Malzemeleri,Zımba,606,3,175.09816956372873
+ORD-1297,2025-09-26,Steve Faulkner,New Reneestad,Ofis Malzemeleri,Kağıt,1158,3,225.862909466783
+ORD-1298,2025-02-24,Megan George,Laurenport,Ofis Malzemeleri,Dosya,326,1,39.56759461416871
+ORD-1299,2024-06-08,David Gardner,West Travismouth,Teknoloji,Monitör,6315,5,1800.959254551729
+ORD-1300,2024-10-13,Elizabeth Rodriguez,Blackhaven,Mobilya,Sandalye,1516,4,414.73684271310367
+ORD-1301,2025-03-27,Elizabeth Jacobs,North Laura,Mobilya,Lamba,654,2,104.49004686223252
+ORD-1302,2025-11-30,Lori Richmond,Nicholasmouth,Ofis Malzemeleri,Zımba,960,5,236.24065850546117
+ORD-1303,2024-10-01,Justin Gould,South Veronicaland,Mobilya,Sandalye,459,3,60.83771024452434
+ORD-1304,2024-09-24,Mr. Ronald Williams,New Amandashire,Ofis Malzemeleri,Dosya,345,3,71.45516821393475
+ORD-1305,2024-05-17,Victoria Moore,Chelseaberg,Ofis Malzemeleri,Dosya,330,5,72.60493673623007
+ORD-1306,2025-01-21,Matthew Gillespie,Brandonstad,Mobilya,Lamba,273,3,60.83139761661925
+ORD-1307,2025-02-05,Emily Young,South Debramouth,Ofis Malzemeleri,Kalem Seti,374,1,37.52430018047773
+ORD-1308,2024-10-15,Thomas Suarez,Tanyaborough,Mobilya,Kitaplık,1365,3,245.61828099803515
+ORD-1309,2024-07-29,Deborah Stephens,East Thomasbury,Mobilya,Kitaplık,704,2,181.89130936004602
+ORD-1310,2025-06-29,Christopher Lutz,Hermanfurt,Mobilya,Lamba,1197,3,156.87141110912248
+ORD-1311,2024-04-16,Ryan Waller,South Melissa,Ofis Malzemeleri,Dosya,810,2,217.41417531616383
+ORD-1312,2025-04-02,Pamela Martinez,Lake Austinfort,Ofis Malzemeleri,Zımba,176,1,32.70969436248742
+ORD-1313,2025-02-06,Vickie Burns,New Jefferyland,Ofis Malzemeleri,Zımba,188,4,27.244521086455492
+ORD-1314,2025-06-10,Henry Luna MD,West Maryfurt,Teknoloji,Laptop,6872,4,1230.16570895337
+ORD-1315,2025-07-11,Mrs. Rebecca Nguyen DVM,Chapmanville,Ofis Malzemeleri,Zımba,924,4,262.40939238816037
+ORD-1316,2024-11-19,Amy Morales,Lake Hector,Mobilya,Sandalye,720,5,89.2613788318942
+ORD-1317,2025-07-24,Curtis Rodriguez,Jaclynmouth,Ofis Malzemeleri,Kağıt,1100,4,247.83396608065837
+ORD-1318,2025-05-22,Stephen Lewis,Colemanmouth,Teknoloji,Laptop,6306,2,980.2697136045097
+ORD-1319,2025-04-22,Robert Pierce,New Kevinmouth,Teknoloji,Klavye,620,5,157.4194194229903
+ORD-1320,2025-08-18,Jennifer Smith,South Tylerfort,Ofis Malzemeleri,Kalem Seti,1036,4,305.33369917224917
+ORD-1321,2026-02-18,Madison Flores,West Samantha,Mobilya,Lamba,1260,4,140.31054144971907
+ORD-1322,2025-07-04,Jennifer Smith,West Krista,Ofis Malzemeleri,Kağıt,1293,3,219.48598019594192
+ORD-1323,2024-10-15,Robin Kennedy,Evansburgh,Ofis Malzemeleri,Kalem Seti,512,2,113.89773748331152
+ORD-1324,2024-05-02,Megan Ayala,Port Justin,Ofis Malzemeleri,Zımba,1670,5,391.38329325457465
+ORD-1325,2024-10-17,Melissa Johnson,Timothyland,Teknoloji,Monitör,2031,3,604.3218833706782
+ORD-1326,2025-02-28,Tammy Booker,Lake Christopherton,Mobilya,Masa,614,2,166.75589118151896
+ORD-1327,2025-12-27,Jessica Burns,New Brandy,Ofis Malzemeleri,Dosya,332,4,67.52385248242543
+ORD-1328,2025-03-25,Renee Hawkins,West Ronaldchester,Mobilya,Sandalye,1314,3,176.35221904495162
+ORD-1329,2024-11-13,Gloria Owen,Lunaview,Mobilya,Kitaplık,1449,3,295.8633611279042
+ORD-1330,2025-12-30,Mr. Joseph Crosby MD,Angelachester,Teknoloji,Telefon,8475,3,1190.9636619616583
+ORD-1331,2026-01-17,Gregory Reynolds,New Lisaside,Mobilya,Kitaplık,304,1,40.855124409457055
+ORD-1332,2025-09-15,Leslie Moss,Charleneville,Teknoloji,Klavye,10320,4,2168.3814984893493
+ORD-1333,2024-03-29,Cynthia Carter,Brianland,Mobilya,Masa,160,4,23.83526885447509
+ORD-1334,2025-08-22,Mary Jones,Lake Shannon,Mobilya,Masa,1412,4,308.16829029797026
+ORD-1335,2024-11-10,Amanda Adams,Hebertberg,Ofis Malzemeleri,Kalem Seti,92,4,12.259741088701857
+ORD-1336,2025-11-06,Walter Gaines,Kellytown,Teknoloji,Telefon,16272,4,4289.069264827907
+ORD-1337,2025-04-26,Carrie Lambert,Nataliehaven,Teknoloji,Telefon,12320,5,2315.49618342651
+ORD-1338,2024-04-10,Eugene Mathews,Lake Valerie,Ofis Malzemeleri,Kağıt,1134,3,331.99228735376374
+ORD-1339,2026-01-10,Mrs. Diane Aguilar,Shanetown,Ofis Malzemeleri,Dosya,369,3,81.80008501035246
+ORD-1340,2024-10-15,Theresa Gutierrez,Lauraborough,Ofis Malzemeleri,Kalem Seti,840,4,212.16951697441567
+ORD-1341,2025-06-17,Catherine Medina,East Autumnville,Teknoloji,Laptop,4491,1,894.5888377146981
+ORD-1342,2024-07-17,James Mcfarland,Roblesborough,Teknoloji,Monitör,18665,5,3023.223484000542
+ORD-1343,2025-02-20,Stephanie Mccoy,Lake Christophermouth,Mobilya,Masa,758,2,211.23522108431123
+ORD-1344,2024-05-05,Karen Mckinney,North Rebeccahaven,Teknoloji,Monitör,3388,2,666.0746877342748
+ORD-1345,2025-04-16,Pamela Baker,Dennisberg,Mobilya,Masa,348,2,44.495155558285724
+ORD-1346,2025-04-24,Susan Sexton,East Molly,Mobilya,Masa,435,5,91.87679977499513
+ORD-1347,2024-07-06,Paul Mitchell,Brownside,Ofis Malzemeleri,Kağıt,580,2,97.32630752025968
+ORD-1348,2025-04-13,Joshua Vazquez,Kerriton,Ofis Malzemeleri,Kağıt,338,1,73.22471578477192
+ORD-1349,2025-12-19,Jose French,North Adamberg,Teknoloji,Telefon,9345,3,1469.039471825987
+ORD-1350,2025-01-30,Paul Thomas,Samanthaport,Mobilya,Kitaplık,1435,5,190.79323227671395
+ORD-1351,2025-01-31,Megan Martin,Lake Theresastad,Ofis Malzemeleri,Kalem Seti,452,1,64.90202492447712
+ORD-1352,2024-12-24,Nicholas Armstrong,Bonniefort,Mobilya,Masa,1205,5,151.16758470433928
+ORD-1353,2025-01-15,Robin Holmes,West Sarachester,Ofis Malzemeleri,Kalem Seti,856,2,220.43015583237082
+ORD-1354,2025-12-20,Brian Espinoza,Jacksonshire,Teknoloji,Klavye,3200,1,773.2540038473016
+ORD-1355,2024-09-20,Keith Padilla,Jacquelinefurt,Ofis Malzemeleri,Dosya,1233,3,352.7605322798467
+ORD-1356,2025-05-22,Debra Hansen,Lake Yolandatown,Mobilya,Sandalye,499,1,104.66102940924895
+ORD-1357,2024-05-21,Susan Salinas,Reillymouth,Ofis Malzemeleri,Dosya,216,4,52.01694154355432
+ORD-1358,2025-11-23,Cory Ramirez,Paulastad,Ofis Malzemeleri,Kağıt,309,1,76.21120021267558
+ORD-1359,2024-07-27,Kathryn Brooks,Roberthaven,Mobilya,Sandalye,1992,4,232.4954155449976
+ORD-1360,2025-09-13,Samuel Wilson,Lake Sara,Mobilya,Lamba,485,5,113.7254284769474
+ORD-1361,2025-07-10,Tammy Patrick,Dunnport,Ofis Malzemeleri,Kağıt,1450,5,165.04030612232282
+ORD-1362,2025-11-26,Samantha Haynes,Katherineborough,Ofis Malzemeleri,Zımba,228,2,24.384229379780948
+ORD-1363,2024-10-05,Tiffany Hartman,Davisbury,Ofis Malzemeleri,Dosya,312,4,72.16283971739693
+ORD-1364,2024-05-29,Jorge Wright,North Nicholashaven,Ofis Malzemeleri,Zımba,1083,3,311.8727044596288
+ORD-1365,2024-05-05,Aimee Gill,Deborahmouth,Teknoloji,Monitör,927,3,227.48856165921848
+ORD-1366,2024-05-21,Stephen Gomez,South Sandramouth,Mobilya,Kitaplık,436,4,113.73608770697848
+ORD-1367,2024-10-04,Gregory Matthews,South Joseshire,Ofis Malzemeleri,Kağıt,1185,3,186.71863567745302
+ORD-1368,2024-12-30,Christopher Brown,New Loriberg,Ofis Malzemeleri,Dosya,694,2,200.20100442846328
+ORD-1369,2025-02-23,Cody Phillips,Jameshaven,Mobilya,Masa,840,4,202.45993290038314
+ORD-1370,2025-10-31,Michelle Gilmore,Alexanderton,Ofis Malzemeleri,Zımba,1228,4,133.79974518370736
+ORD-1371,2024-12-18,Jennifer Abbott,South Isaacmouth,Mobilya,Masa,1900,5,329.40050376212673
+ORD-1372,2025-03-18,Jorge Andrews,West Melissa,Teknoloji,Telefon,3195,3,711.4222738443552
+ORD-1373,2025-06-21,Cassidy Short,Chasetown,Mobilya,Sandalye,84,4,25.036634415225745
+ORD-1374,2024-07-17,Ashley Jones,Beasleyville,Mobilya,Masa,180,4,47.348733461224114
+ORD-1375,2025-11-22,Joshua Rodriguez,New Tammyburgh,Teknoloji,Klavye,8472,3,1709.4752796381003
+ORD-1376,2025-02-09,Audrey Fox,Fisherfort,Mobilya,Lamba,69,1,10.33607583447448
+ORD-1377,2025-11-18,Gregory King,Trujilloport,Teknoloji,Monitör,3552,4,608.6481065095581
+ORD-1378,2024-07-17,Brittany Holmes,Port Melissa,Mobilya,Sandalye,298,1,35.59066878983088
+ORD-1379,2025-12-25,Sarah Fischer,Michaelbury,Mobilya,Sandalye,660,4,120.2659638661812
+ORD-1380,2024-07-27,Abigail Hood PhD,East Natalie,Teknoloji,Laptop,1680,3,271.8829743327817
+ORD-1381,2025-05-27,Gerald Wilkins,New Monica,Ofis Malzemeleri,Kalem Seti,1832,4,412.6829458828598
+ORD-1382,2025-10-30,Michael Castro,New Andrew,Ofis Malzemeleri,Kağıt,336,1,69.9882640825777
+ORD-1383,2024-05-07,Megan Marks,West Karatown,Ofis Malzemeleri,Kalem Seti,383,1,53.886150046897136
+ORD-1384,2025-02-19,Tracey Greer,Jonesville,Teknoloji,Laptop,1659,1,407.89521879759394
+ORD-1385,2024-12-06,Gregory Holland,East Rachelshire,Mobilya,Sandalye,26,1,3.450148288576552
+ORD-1386,2024-04-11,Melanie Hughes,North Jenniferfort,Teknoloji,Telefon,6360,2,1422.5340542311171
+ORD-1387,2024-05-04,Holly Holt,Lake Karenchester,Ofis Malzemeleri,Dosya,214,1,37.36557985770606
+ORD-1388,2024-12-25,Sarah Duke DDS,Cindyland,Teknoloji,Monitör,1536,2,449.3671747141757
+ORD-1389,2024-04-27,Amber Martin,West Nathanborough,Mobilya,Lamba,453,3,67.39671709486154
+ORD-1390,2026-02-28,Douglas Vargas,Angelaview,Teknoloji,Klavye,3276,1,422.5168449066524
+ORD-1391,2024-09-16,Jordan Davis,Wilsonmouth,Teknoloji,Telefon,2670,5,269.9676807793284
+ORD-1392,2024-09-19,Charles Olson,East Caroltown,Teknoloji,Monitör,2184,1,352.9220129708317
+ORD-1393,2025-07-24,Tom Wells,East Patrickhaven,Mobilya,Masa,1464,3,256.52204167459206
+ORD-1394,2025-01-06,Michele Francis,Christophertown,Teknoloji,Telefon,3088,1,344.9993002148242
+ORD-1395,2024-04-19,Danielle Brown,Port Joyce,Ofis Malzemeleri,Dosya,1029,3,123.41035521528295
+ORD-1396,2025-12-02,Jay Tate,West Nicole,Teknoloji,Laptop,3102,3,675.3568153854434
+ORD-1397,2024-11-16,Robert Flores,West Matthewfort,Teknoloji,Telefon,6300,3,1002.6562610582839
+ORD-1398,2024-05-29,Michael Vaughn,South Ashleyshire,Mobilya,Masa,220,4,61.06086461661472
+ORD-1399,2025-09-26,Melissa Hernandez,Newtonhaven,Teknoloji,Telefon,5504,4,1089.5881222633714
+ORD-1400,2025-10-22,Nicholas Allen,Angelabury,Ofis Malzemeleri,Kağıt,670,2,126.0819901760889
+ORD-1401,2025-06-04,Joseph Coleman,Lake Ryan,Ofis Malzemeleri,Kalem Seti,56,4,11.87930903226167
+ORD-1402,2024-04-15,Gloria Finley,East Peter,Teknoloji,Laptop,11124,3,2380.8012827731354
+ORD-1403,2024-04-30,Willie Smith,East Wyatt,Mobilya,Masa,436,2,128.10402286695657
+ORD-1404,2025-02-12,Sarah Nguyen,New Jason,Mobilya,Kitaplık,356,2,84.49662747068857
+ORD-1405,2025-07-27,Mariah Vasquez,Beltranland,Ofis Malzemeleri,Kalem Seti,1317,3,392.3579478912459
+ORD-1406,2025-03-01,Sheryl Cruz,Port Annette,Ofis Malzemeleri,Dosya,380,2,38.60656753284211
+ORD-1407,2024-07-12,Joseph Williams,Brendashire,Teknoloji,Telefon,11765,5,3464.4612496221644
+ORD-1408,2025-01-08,Laura Campbell,Nathanielfurt,Teknoloji,Monitör,18120,5,5203.498038729326
+ORD-1409,2024-04-01,Richard Cline,East Brian,Mobilya,Lamba,630,3,111.24492879952393
+ORD-1410,2025-08-07,James Wright,North Zachary,Ofis Malzemeleri,Dosya,752,2,201.43933928546934
+ORD-1411,2025-10-26,Tony Garza,Coxmouth,Ofis Malzemeleri,Zımba,1239,3,262.0590236228852
+ORD-1412,2024-05-29,Vincent Stephens,Christinebury,Ofis Malzemeleri,Zımba,482,1,49.28285560533352
+ORD-1413,2025-05-20,Barbara Jones,New Richardfort,Ofis Malzemeleri,Zımba,1692,4,205.06171488890067
+ORD-1414,2025-01-31,Jim Johnson,New Deanna,Mobilya,Masa,790,5,153.90333834034072
+ORD-1415,2024-04-05,Julia Schroeder,East Kathleen,Mobilya,Kitaplık,2125,5,536.3767204863411
+ORD-1416,2025-07-06,Frank Nash,North Lindsey,Ofis Malzemeleri,Kalem Seti,842,2,86.0014396863566
+ORD-1417,2025-01-28,Thomas Chang,Alvaradofort,Ofis Malzemeleri,Kağıt,410,5,87.01142312233526
+ORD-1418,2024-09-12,Dr. Zachary Stevens MD,Jamesfurt,Teknoloji,Telefon,7142,2,1077.9946911774416
+ORD-1419,2026-01-30,Ronald Brown,Johnsonborough,Teknoloji,Klavye,816,2,190.70715216291214
+ORD-1420,2025-08-04,William Campbell,West Chelseafort,Ofis Malzemeleri,Kalem Seti,1536,4,416.23123367556565
+ORD-1421,2026-02-28,Janice Thomas,Port David,Ofis Malzemeleri,Zımba,2065,5,306.3362766873003
+ORD-1422,2025-02-07,William Osborne,Clarkside,Teknoloji,Monitör,2976,4,779.9930055827823
+ORD-1423,2024-09-11,Lisa Wilson,South Benjamintown,Teknoloji,Monitör,8643,3,2175.5620428932684
+ORD-1424,2025-05-07,Catherine Rosales,Whiteheadtown,Mobilya,Lamba,873,3,112.42323475150866
+ORD-1425,2024-05-08,Laura Newton,Robertborough,Mobilya,Masa,2100,5,254.70531781038702
+ORD-1426,2025-12-06,Connor Todd,Dicksonburgh,Mobilya,Kitaplık,615,3,133.64141283120955
+ORD-1427,2024-05-09,Carol Allen,West Kristinport,Mobilya,Masa,894,3,90.02109856347398
+ORD-1428,2025-01-07,John Rocha,Francismouth,Teknoloji,Laptop,10020,3,2478.2349840909455
+ORD-1429,2025-07-12,Bryan Lynch,Sharimouth,Mobilya,Kitaplık,223,1,41.43769784029395
+ORD-1430,2026-02-25,Samantha Lindsey,Mcdonaldbury,Mobilya,Kitaplık,299,1,63.08941629179804
+ORD-1431,2024-11-04,Matthew Crawford,Port Cameron,Ofis Malzemeleri,Dosya,1580,4,395.7643397471482
+ORD-1432,2024-09-23,Christopher Cuevas,Port Theresa,Ofis Malzemeleri,Zımba,866,2,165.8035800309219
+ORD-1433,2024-11-10,William Acevedo,Lake Natalieshire,Mobilya,Kitaplık,12,1,1.824539715634131
+ORD-1434,2026-02-01,Joseph Walton,Lake Ashleyside,Teknoloji,Laptop,2375,5,605.5346604905766
+ORD-1435,2024-07-01,Lisa Bradley,Lindseyside,Mobilya,Masa,1077,3,175.5075645148446
+ORD-1436,2024-12-08,Jessica Melendez,South Anna,Teknoloji,Laptop,17985,5,4294.040264226644
+ORD-1437,2025-03-31,Ryan Tucker,New Michelle,Ofis Malzemeleri,Zımba,810,2,191.31182985607202
+ORD-1438,2024-03-05,Carrie Vargas,Donaldtown,Ofis Malzemeleri,Kağıt,798,2,97.64456253635942
+ORD-1439,2024-07-21,Alexandra Bell,Thomasshire,Mobilya,Masa,391,1,55.70463253376002
+ORD-1440,2025-01-19,Heather Peters,Montoyaland,Ofis Malzemeleri,Kağıt,1302,3,214.77233313389203
+ORD-1441,2026-02-05,Nathan Carter,Adamsshire,Ofis Malzemeleri,Kalem Seti,127,1,35.4795824465797
+ORD-1442,2025-09-03,Jose Watson,Brandiville,Teknoloji,Laptop,7016,4,1060.7215305492875
+ORD-1443,2025-07-19,Pamela Bowers,Robertstad,Mobilya,Lamba,740,2,101.27954890640666
+ORD-1444,2025-09-27,Wendy Thomas,East James,Ofis Malzemeleri,Kağıt,256,1,72.92213106595088
+ORD-1445,2025-07-23,Matthew Stewart,South Cassidy,Teknoloji,Laptop,6100,2,1494.1361939296107
+ORD-1446,2024-05-18,Jenna Pittman,West David,Mobilya,Masa,1305,3,349.35740397811105
+ORD-1447,2025-07-03,Daniel Williams,Antoniomouth,Ofis Malzemeleri,Kalem Seti,1524,4,280.3597757454613
+ORD-1448,2024-07-24,Troy Brown,North Erinton,Mobilya,Sandalye,1740,4,179.04611955666869
+ORD-1449,2024-06-16,Mr. Eric Burns,East Phyllisshire,Mobilya,Sandalye,1860,4,268.0371264910559
+ORD-1450,2025-01-10,Kimberly Burke,Huffmanmouth,Mobilya,Masa,789,3,156.3229429289926
+ORD-1451,2025-03-20,Willie Sanders,North Marthaland,Teknoloji,Telefon,5865,3,1447.770640113983
+ORD-1452,2024-08-31,Scott Curtis,North Bryanland,Ofis Malzemeleri,Kalem Seti,215,5,34.42164098791342
+ORD-1453,2025-05-30,Elizabeth Escobar,North Carl,Ofis Malzemeleri,Kalem Seti,1384,4,374.57771389253537
+ORD-1454,2026-02-03,Joann Ramos MD,Whitechester,Ofis Malzemeleri,Kağıt,688,2,123.35183768883809
+ORD-1455,2025-07-08,Jessica Durham,Wilsonshire,Mobilya,Masa,178,2,49.835002679611435
+ORD-1456,2025-07-25,Henry Jenkins,East Cynthia,Mobilya,Lamba,1468,4,300.0918833769692
+ORD-1457,2025-12-27,Timothy Rice,Adrienneberg,Mobilya,Lamba,592,4,96.24059867169285
+ORD-1458,2024-09-20,Douglas Trevino,South James,Ofis Malzemeleri,Kağıt,1190,5,354.4455111608262
+ORD-1459,2025-06-23,Laura Reilly,Lake Alec,Ofis Malzemeleri,Zımba,1472,4,439.65789447148205
+ORD-1460,2025-03-09,Michael Riley Jr.,Blanchardside,Mobilya,Lamba,150,1,30.19319450118167
+ORD-1461,2025-06-26,Ryan Watson,Victoriashire,Teknoloji,Laptop,1459,1,346.19367874644996
+ORD-1462,2025-05-31,Devin Hamilton,North Donald,Mobilya,Kitaplık,940,4,128.2938541018847
+ORD-1463,2024-12-18,Ronald Brown,Raychester,Teknoloji,Telefon,3014,1,466.88948664744527
+ORD-1464,2025-07-09,David Newman,North Emilyburgh,Ofis Malzemeleri,Kalem Seti,470,2,124.93123242519708
+ORD-1465,2025-10-13,Kayla Nguyen,West Kristinborough,Teknoloji,Telefon,528,1,82.68295524616825
+ORD-1466,2024-09-08,Caleb Burke,North Alyssamouth,Mobilya,Kitaplık,426,3,75.25604834445954
+ORD-1467,2026-02-25,Erin Mcdonald,Nicolestad,Ofis Malzemeleri,Dosya,1888,4,409.32290925966765
+ORD-1468,2026-02-12,Alicia Jacobson,Chelseatown,Ofis Malzemeleri,Kalem Seti,716,2,105.58663160355079
+ORD-1469,2025-12-30,Rachel Frank,Hernandezport,Teknoloji,Monitör,24895,5,7105.713518811329
+ORD-1470,2024-10-11,Mary Nelson,Davidmouth,Ofis Malzemeleri,Kağıt,1630,5,464.4936163213904
+ORD-1471,2024-06-26,Kevin Kent,Vazquezland,Mobilya,Masa,1975,5,271.37640275039064
+ORD-1472,2025-07-21,Wayne Gonzalez,Greerside,Ofis Malzemeleri,Zımba,927,3,272.6255738255413
+ORD-1473,2026-02-11,Michael Munoz,New Gailmouth,Teknoloji,Monitör,17985,5,3751.2257437755125
+ORD-1474,2024-11-24,Anna Foster,Gilmorebury,Teknoloji,Klavye,12420,5,1473.7645282049368
+ORD-1475,2024-06-09,Aaron Hill,East Kyle,Teknoloji,Telefon,2782,2,560.3648725884311
+ORD-1476,2025-12-11,William Chambers,South Kathleenberg,Ofis Malzemeleri,Kalem Seti,460,5,60.849699000919834
+ORD-1477,2026-02-15,Lynn Marquez,North Tiffanyshire,Ofis Malzemeleri,Dosya,900,5,137.85881164432163
+ORD-1478,2026-02-15,Chad Campos,Kimberlyland,Teknoloji,Laptop,8000,2,1284.1782464782566
+ORD-1479,2024-05-03,Jamie Mccullough,South Juliestad,Mobilya,Masa,372,1,96.12501288933933
+ORD-1480,2025-11-11,Marcus Mckinney,Port Loriport,Teknoloji,Monitör,1406,2,261.70819286355055
+ORD-1481,2024-05-24,Alex Price,Nicholastown,Teknoloji,Laptop,11284,4,1683.368260584612
+ORD-1482,2025-04-26,Michael Shaw,Thorntonshire,Mobilya,Kitaplık,1464,3,309.57867877179007
+ORD-1483,2025-02-05,Sergio Williams,Kelleystad,Ofis Malzemeleri,Dosya,106,1,23.824037500351352
+ORD-1484,2024-11-20,Mary Henderson,Thompsonberg,Mobilya,Sandalye,182,2,28.12735245059748
+ORD-1485,2025-06-05,Zachary Benson,New Jasminechester,Ofis Malzemeleri,Kalem Seti,2360,5,381.1088361268186
+ORD-1486,2025-09-04,Natalie Baker,Matthewhaven,Teknoloji,Klavye,12552,3,1497.0051425791244
+ORD-1487,2024-07-09,Scott Kline,Johnsonshire,Ofis Malzemeleri,Dosya,1260,4,255.21386179037995
+ORD-1488,2024-07-30,Leah Cook,New Brianberg,Ofis Malzemeleri,Kalem Seti,1401,3,208.1269278775639
+ORD-1489,2026-01-09,Mark Burgess,Griffinmouth,Ofis Malzemeleri,Kalem Seti,388,4,58.47914331927397
+ORD-1490,2024-08-21,Mason Ellis,Huberview,Mobilya,Lamba,34,1,7.510173787823829
+ORD-1491,2025-07-15,Rickey Hill,Ianstad,Mobilya,Masa,188,1,30.520743631456078
+ORD-1492,2025-02-26,Tonya May,Port Hannahfort,Teknoloji,Klavye,10743,3,2641.8419256152147
+ORD-1493,2024-06-27,Stephanie Floyd,New Jennifer,Ofis Malzemeleri,Dosya,888,4,190.3435356696923
+ORD-1494,2025-04-11,Kaitlin Olson,Christophershire,Ofis Malzemeleri,Dosya,365,1,78.75606206503579
+ORD-1495,2025-03-11,Tracy Schneider,Maxwellview,Mobilya,Masa,122,2,17.832612217685526
+ORD-1496,2025-01-21,Dustin Smith,West Sarah,Mobilya,Sandalye,1912,4,531.0090714761367
+ORD-1497,2025-06-03,Ricardo Phillips,Lake James,Teknoloji,Telefon,6860,2,738.2445697737782
+ORD-1498,2024-09-11,Ashlee Heath,Codymouth,Ofis Malzemeleri,Dosya,488,4,61.04036457733527
+ORD-1499,2025-10-30,Mary Malone,Port Calebhaven,Teknoloji,Monitör,4405,5,1178.6022766375984
+ORD-1500,2025-01-22,Rebecca Hansen,Tracymouth,Teknoloji,Laptop,8380,2,1618.4664420352399
+ORD-1501,2025-05-12,David Hawkins,Lambfort,Mobilya,Lamba,814,2,201.20806499062013
+ORD-1502,2024-06-30,Stephanie Williams,Lake Sandrafurt,Ofis Malzemeleri,Dosya,448,1,111.55818446822052
+ORD-1503,2024-08-23,Michelle Preston,Murphyhaven,Ofis Malzemeleri,Dosya,1510,5,406.95616043844444
+ORD-1504,2024-03-28,Diana Fowler,Johnathanshire,Teknoloji,Monitör,1366,2,220.7139833351622
+ORD-1505,2024-07-22,John Dixon,South Taylorfurt,Ofis Malzemeleri,Kalem Seti,194,2,30.436735129717547
+ORD-1506,2025-12-08,Christopher Sexton,Debraview,Mobilya,Lamba,224,4,51.9580198198895
+ORD-1507,2025-10-31,Maria Smith,Timothychester,Ofis Malzemeleri,Kalem Seti,332,4,77.09418042666961
+ORD-1508,2025-09-03,Nicholas Nichols,Maryport,Mobilya,Kitaplık,95,5,22.260977344662756
+ORD-1509,2024-06-14,Andrew Clark,Port Tracy,Ofis Malzemeleri,Zımba,640,4,89.47178601058697
+ORD-1510,2024-09-19,Stephanie Hill,Suzanneport,Mobilya,Sandalye,238,1,65.52351783506765
+ORD-1511,2024-12-18,Michael Hendrix,South Tammy,Ofis Malzemeleri,Zımba,1140,4,130.8473287121563
+ORD-1512,2024-05-09,Kristen Owens,Jennifermouth,Mobilya,Masa,120,2,19.461090459062202
+ORD-1513,2025-10-19,Taylor Warren,West Ralphbury,Teknoloji,Telefon,3624,4,467.23951888158064
+ORD-1514,2024-12-01,Jason Small,Berryshire,Teknoloji,Klavye,9597,3,2264.826258967816
+ORD-1515,2024-04-11,Cole Mann,Port Marymouth,Mobilya,Lamba,124,4,33.89472234044731
+ORD-1516,2025-01-26,Alyssa Lamb,Lake Andrew,Ofis Malzemeleri,Zımba,664,4,116.25820642467869
+ORD-1517,2025-08-02,George Yates,West Jesusbury,Mobilya,Lamba,1976,4,452.77402985784295
+ORD-1518,2025-11-03,Eric Powers,Castrochester,Mobilya,Sandalye,2375,5,512.9584780357202
+ORD-1519,2025-07-16,Scott Thomas,Port Shawnville,Mobilya,Kitaplık,1792,4,405.62345223920715
+ORD-1520,2024-11-21,John Perez,Port Raven,Ofis Malzemeleri,Dosya,106,1,28.162110729676264
+ORD-1521,2024-11-12,Melissa Ortiz,Port Christopherfurt,Ofis Malzemeleri,Kağıt,976,2,101.79481289066206
+ORD-1522,2026-02-05,Nancy Zuniga,Garnerchester,Teknoloji,Telefon,15880,4,1673.149437113881
+ORD-1523,2026-01-06,Dr. Christopher Benitez,West Paula,Mobilya,Sandalye,585,3,143.65073786702072
+ORD-1524,2024-07-31,Ana Jones,Port Elizabethstad,Mobilya,Sandalye,855,5,238.0009954795801
+ORD-1525,2026-01-19,Maria Howard,Parkerberg,Mobilya,Masa,836,2,144.21265519547455
+ORD-1526,2024-10-23,Tanya Martin,Lisaview,Ofis Malzemeleri,Dosya,105,5,29.558701716980032
+ORD-1527,2024-04-27,Sarah Owen,West Samanthahaven,Ofis Malzemeleri,Dosya,756,2,118.51094223550399
+ORD-1528,2025-02-19,Travis Roman,Desireechester,Ofis Malzemeleri,Zımba,795,5,208.168438588131
+ORD-1529,2025-05-29,Harold Flores,New Amandaside,Teknoloji,Telefon,6195,5,1835.9344206797603
+ORD-1530,2025-10-22,Darren Roberts,Lake Cindyton,Ofis Malzemeleri,Zımba,660,3,115.01425976740019
+ORD-1531,2025-07-24,Suzanne Ponce,New Kathryntown,Ofis Malzemeleri,Dosya,1230,3,138.34232413406764
+ORD-1532,2024-09-26,Marc Lopez,North Kevinmouth,Ofis Malzemeleri,Kağıt,84,4,19.502040202177106
+ORD-1533,2024-05-22,Dennis Patel,South Andrew,Teknoloji,Klavye,12112,4,2927.392054761249
+ORD-1534,2025-09-23,John Booth,West Davidside,Teknoloji,Laptop,2244,3,513.8488363027417
+ORD-1535,2024-12-26,William Mcdaniel,Alexandraville,Mobilya,Sandalye,272,1,35.236559491137555
+ORD-1536,2024-06-28,Destiny Beasley,East Ianside,Ofis Malzemeleri,Kalem Seti,814,2,160.94163059224948
+ORD-1537,2025-06-01,Jeremy French,Port Linda,Mobilya,Kitaplık,433,1,68.77358021149242
+ORD-1538,2025-11-17,Daniel Castillo,Lake Patricia,Ofis Malzemeleri,Dosya,1200,3,287.71023116480944
+ORD-1539,2025-11-26,Michael Gallagher,West Brandonborough,Mobilya,Sandalye,1535,5,178.27729913097653
+ORD-1540,2025-10-29,Nicole Smith,Lake James,Ofis Malzemeleri,Kalem Seti,153,1,32.98901559468721
+ORD-1541,2025-12-30,Tina Watson,West Erica,Mobilya,Kitaplık,490,5,128.63861597114757
+ORD-1542,2024-09-03,Christine Hodges,New Shawnastad,Teknoloji,Laptop,8708,2,1911.1810886026587
+ORD-1543,2025-10-12,Daniel Coleman,Jaclynfurt,Ofis Malzemeleri,Dosya,1464,4,362.75867149418383
+ORD-1544,2026-01-09,Christian Atkinson,Crystalbury,Teknoloji,Monitör,4161,3,1147.956324438689
+ORD-1545,2024-03-22,Amanda Griffin PhD,Chapmanhaven,Mobilya,Masa,1176,4,229.87481523794926
+ORD-1546,2025-06-23,Caitlyn Scott,Bellstad,Ofis Malzemeleri,Kağıt,346,2,93.47993839576903
+ORD-1547,2026-01-30,Jennifer Butler,New Mariahchester,Mobilya,Sandalye,87,3,10.367220917731713
+ORD-1548,2024-03-11,Andrew Horton,Port Jacobhaven,Ofis Malzemeleri,Dosya,576,4,156.56800548470386
+ORD-1549,2025-09-15,Aaron Woods,Lake Annehaven,Ofis Malzemeleri,Kalem Seti,241,1,59.172269882595224
+ORD-1550,2025-01-16,Jasmine Chase,Underwoodview,Ofis Malzemeleri,Zımba,105,5,27.06786782691921
+ORD-1551,2024-06-16,Isaac Manning,Lake Angela,Ofis Malzemeleri,Zımba,334,1,72.06249149773491
+ORD-1552,2025-06-05,Mark Wood,West Michael,Teknoloji,Laptop,13611,3,2928.859980090262
+ORD-1553,2024-12-04,Savannah Welch,Port Katherinefurt,Teknoloji,Monitör,8602,2,2239.216036611892
+ORD-1554,2025-09-28,Brenda Adams,Timothyville,Teknoloji,Telefon,2710,2,511.89034547608014
+ORD-1555,2024-06-01,Melissa Nielsen,Paulton,Mobilya,Sandalye,1712,4,226.07093383211918
+ORD-1556,2025-05-05,Ashley Valencia,South Tracimouth,Teknoloji,Klavye,18432,4,4885.471118084663
+ORD-1557,2024-04-26,Brett James,Herreraland,Mobilya,Sandalye,105,3,25.695209908027273
+ORD-1558,2025-05-23,William Rodgers,New Alejandra,Ofis Malzemeleri,Kalem Seti,384,3,80.16715649677737
+ORD-1559,2025-08-09,Stephen Moore,Angelamouth,Teknoloji,Telefon,4357,1,893.2536569045417
+ORD-1560,2025-05-03,Vanessa Parker,Port Joshua,Ofis Malzemeleri,Kalem Seti,1344,4,192.0288284514077
+ORD-1561,2024-12-15,Briana Hutchinson,Harveybury,Teknoloji,Laptop,1948,2,368.7917144772817
+ORD-1562,2026-02-17,Eric Roy,West Erin,Ofis Malzemeleri,Kalem Seti,310,1,37.91820744259511
+ORD-1563,2025-03-20,George Butler,North Maryton,Ofis Malzemeleri,Kağıt,1964,4,293.0697057423651
+ORD-1564,2025-01-07,Rachel Chung,New Davidborough,Teknoloji,Laptop,3181,1,870.1221496203225
+ORD-1565,2026-02-26,Andrew Mccullough,Melvinstad,Mobilya,Masa,420,5,102.0667574257054
+ORD-1566,2024-09-05,Richard Perkins,Lake Ericport,Teknoloji,Telefon,9351,3,2082.684859282602
+ORD-1567,2025-09-25,Aaron Price,Danielside,Ofis Malzemeleri,Kağıt,1085,5,216.2332521752834
+ORD-1568,2025-11-08,Jerry Chambers,Judyland,Ofis Malzemeleri,Dosya,486,1,112.45613024404938
+ORD-1569,2025-03-12,Francis Gonzalez,Thomasstad,Teknoloji,Klavye,11264,4,2878.269037405557
+ORD-1570,2024-05-06,Michele Bowman,South Summerside,Mobilya,Masa,664,2,198.3960724197944
+ORD-1571,2025-07-21,Madison Thompson,Adamsshire,Mobilya,Sandalye,1396,4,240.80810600185026
+ORD-1572,2025-08-13,David Jones,Andreahaven,Mobilya,Masa,390,2,51.49412624909485
+ORD-1573,2024-03-17,Linda Walker,South Erin,Ofis Malzemeleri,Dosya,558,3,141.0435042846883
+ORD-1574,2024-12-04,Thomas Poole,New Susan,Ofis Malzemeleri,Kalem Seti,242,2,61.32189711956487
+ORD-1575,2024-03-28,Mitchell Mann,New Nicoleport,Mobilya,Masa,423,1,114.10170247018847
+ORD-1576,2024-10-01,Timothy Parker,West Colleen,Ofis Malzemeleri,Kalem Seti,946,2,180.3072435551499
+ORD-1577,2024-07-22,Kelly Gilbert,North Lisaton,Teknoloji,Monitör,10280,5,2387.9065711964704
+ORD-1578,2024-03-17,Brandi Garcia,Bensonchester,Teknoloji,Monitör,16660,4,3974.7680058534165
+ORD-1579,2025-02-21,Wayne Garcia DVM,North Johnstad,Teknoloji,Klavye,2720,1,531.262149988303
+ORD-1580,2024-11-19,Ashley Cisneros,North Anthonymouth,Ofis Malzemeleri,Zımba,441,1,130.29826110525005
+ORD-1581,2026-02-27,Gina Williams,Mckenzieborough,Teknoloji,Klavye,4958,2,1233.6491680048002
+ORD-1582,2024-10-13,Teresa Kim,Bellhaven,Mobilya,Masa,251,1,64.62307739877669
+ORD-1583,2026-02-20,Shelby Miller,South Marieside,Teknoloji,Klavye,1324,4,247.0549616094762
+ORD-1584,2025-11-12,Andrew Wilson,Lake Robert,Mobilya,Masa,1002,3,268.05376306243147
+ORD-1585,2024-11-18,Willie Torres,North Melanieberg,Ofis Malzemeleri,Dosya,203,1,56.12960748413983
+ORD-1586,2025-03-13,Jeffrey Wood,South Jessicaville,Teknoloji,Monitör,2909,1,370.0771898334368
+ORD-1587,2026-02-18,Bruce Silva,East Tanya,Teknoloji,Laptop,2635,5,332.915027855992
+ORD-1588,2025-02-04,James Hopkins,East Christinafurt,Ofis Malzemeleri,Dosya,1080,5,275.814206733316
+ORD-1589,2024-03-12,Susan Sharp,New Jasonstad,Ofis Malzemeleri,Kağıt,800,4,87.66435140303264
+ORD-1590,2024-11-15,Amy Chase,South Haleymouth,Teknoloji,Monitör,17160,4,3666.4090501644264
+ORD-1591,2025-07-07,Deborah Meyer,Danielsport,Teknoloji,Telefon,20960,5,5893.9876683054745
+ORD-1592,2025-09-15,Gregory Williams,Boltonview,Teknoloji,Monitör,235,1,51.032333911488934
+ORD-1593,2024-08-03,Robin Brown,East Seanland,Mobilya,Kitaplık,1675,5,466.8714441810667
+ORD-1594,2024-10-26,David Torres,Kevinville,Mobilya,Lamba,760,4,153.28997233630045
+ORD-1595,2026-01-28,Juan Dominguez,Brianshire,Ofis Malzemeleri,Dosya,745,5,223.40227587944713
+ORD-1596,2025-01-09,Victoria Owens,Amymouth,Teknoloji,Laptop,1098,2,306.0708629327498
+ORD-1597,2024-09-05,Kimberly Gomez,Dianaside,Ofis Malzemeleri,Kağıt,831,3,221.41560270299254
+ORD-1598,2024-12-22,Mrs. Emily Mitchell,New Cassidytown,Mobilya,Kitaplık,612,2,98.86523547217168
+ORD-1599,2025-08-19,Barbara Young,Richardview,Ofis Malzemeleri,Zımba,1005,3,214.96551646027913
+ORD-1600,2024-08-24,James Hogan,North Charles,Ofis Malzemeleri,Kalem Seti,157,1,44.92461960232014
+ORD-1601,2024-02-29,Stacey Bradley,South Nathan,Ofis Malzemeleri,Dosya,702,3,194.4058187832809
+ORD-1602,2025-10-25,Christopher Rivers,Lake Erikmouth,Mobilya,Kitaplık,878,2,121.15922786810232
+ORD-1603,2025-07-09,Stephanie Williams,Port Debra,Teknoloji,Klavye,387,3,48.22486445940485
+ORD-1604,2025-09-17,Sylvia Lynch,Chadberg,Teknoloji,Monitör,3262,1,588.748448712707
+ORD-1605,2025-02-22,Robert Mays,Port Renee,Mobilya,Sandalye,1512,4,158.14443716344516
+ORD-1606,2025-08-12,Lori Page,Cervantesport,Mobilya,Sandalye,1120,4,245.97507045212762
+ORD-1607,2024-08-04,Angela Martin,Larsonland,Ofis Malzemeleri,Kağıt,646,2,92.96694298023243
+ORD-1608,2024-09-15,Patricia Anderson,Mossfort,Mobilya,Kitaplık,2280,5,246.13581657298099
+ORD-1609,2025-07-08,Lisa Perkins,Port Elaine,Teknoloji,Laptop,6476,2,676.2636798136139
+ORD-1610,2025-04-22,Jeffrey Jackson,Danielbury,Teknoloji,Laptop,1282,1,320.83279924446987
+ORD-1611,2024-03-25,Anna Zimmerman,West Isaacland,Ofis Malzemeleri,Zımba,33,3,7.660109691623777
+ORD-1612,2024-11-16,John Mcmillan,Pattersonburgh,Teknoloji,Laptop,6042,3,1124.407114300329
+ORD-1613,2024-09-11,William Jensen,Antonioburgh,Ofis Malzemeleri,Kağıt,156,3,45.193824087448455
+ORD-1614,2024-10-21,Kimberly Mercer,Smithmouth,Teknoloji,Laptop,203,1,52.72990445763181
+ORD-1615,2025-03-21,Deborah Barrera,West Suzannehaven,Ofis Malzemeleri,Kağıt,736,2,186.9148761062783
+ORD-1616,2025-11-20,Jim Pruitt,New Jeremy,Ofis Malzemeleri,Dosya,610,2,107.76513117563037
+ORD-1617,2025-06-05,Susan Mcdonald,Kyleburgh,Mobilya,Kitaplık,135,5,29.022679934330032
+ORD-1618,2025-03-05,Michelle Ali,New Samantha,Teknoloji,Telefon,11345,5,3265.29041048016
+ORD-1619,2025-11-21,Kristin Roberts,Rodriguezmouth,Mobilya,Lamba,1175,5,291.5410587173962
+ORD-1620,2025-01-30,Chris Hensley,North Philipfurt,Ofis Malzemeleri,Zımba,497,1,81.07192687518621
+ORD-1621,2025-09-16,Jennifer Parks,East Caleb,Teknoloji,Laptop,3719,1,867.9951697090025
+ORD-1622,2024-11-21,Judy Gonzalez,Emilyport,Teknoloji,Telefon,10188,4,2094.783043486197
+ORD-1623,2025-07-21,William Day MD,Moodyton,Teknoloji,Klavye,370,2,51.858840318056586
+ORD-1624,2025-01-26,Thomas Webb,Caseychester,Mobilya,Kitaplık,1930,5,566.1057468620388
+ORD-1625,2025-05-25,Danielle Lopez,West Jessica,Mobilya,Kitaplık,648,3,178.62497866975406
+ORD-1626,2025-10-15,Joshua Carson,Lake Brianmouth,Mobilya,Lamba,504,2,60.73084185187475
+ORD-1627,2024-11-04,Ross Higgins,Ericshire,Mobilya,Kitaplık,47,1,10.27821310669595
+ORD-1628,2025-04-22,Dawn Gray MD,New Kenneth,Mobilya,Sandalye,94,2,15.003175901502757
+ORD-1629,2024-05-28,Anthony Brown,Joseland,Teknoloji,Monitör,23635,5,6512.837317688898
+ORD-1630,2026-01-24,Lauren Cox,Clarkfurt,Ofis Malzemeleri,Zımba,1388,4,209.40831552249605
+ORD-1631,2025-07-28,Diane Mitchell,Lake Susan,Ofis Malzemeleri,Zımba,1437,3,410.99805759749546
+ORD-1632,2024-06-14,Ashley Galloway,Carpenterport,Ofis Malzemeleri,Kağıt,484,2,127.80687526057613
+ORD-1633,2025-08-27,Kayla Henry,Robertsontown,Ofis Malzemeleri,Kağıt,918,2,228.07354483050528
+ORD-1634,2025-05-29,Sara Lucas,East Beth,Mobilya,Lamba,696,2,202.8334964897374
+ORD-1635,2025-06-28,Lori Powell,East Nathaniel,Teknoloji,Monitör,15650,5,1698.3507652456963
+ORD-1636,2025-05-29,Steven Russell,New Tinatown,Ofis Malzemeleri,Kağıt,756,4,193.56126327561856
+ORD-1637,2025-04-25,Matthew Young,Jaimefurt,Mobilya,Lamba,604,4,143.72938384948284
+ORD-1638,2025-06-13,John Meza,Miguelberg,Ofis Malzemeleri,Kalem Seti,670,2,150.33681730696532
+ORD-1639,2025-10-06,Jennifer Estrada,New Jackland,Ofis Malzemeleri,Kağıt,296,1,35.54659096916698
+ORD-1640,2025-11-24,Lori Hoffman,Emilyhaven,Ofis Malzemeleri,Zımba,134,1,21.51216792211127
+ORD-1641,2025-06-10,Sean Ferguson,Meghanhaven,Teknoloji,Klavye,6856,2,2004.5566143377814
+ORD-1642,2025-03-06,Brandy Wilkerson,Ronaldland,Teknoloji,Monitör,17772,4,4754.311330969121
+ORD-1643,2025-03-16,Jonathan Best,Gloriatown,Ofis Malzemeleri,Dosya,182,2,42.85111089833436
+ORD-1644,2025-07-19,Shawn Patton,West Raymond,Mobilya,Lamba,471,3,130.29535100709552
+ORD-1645,2025-01-19,Christopher Hill,Lake Ryanborough,Teknoloji,Telefon,8000,4,1455.9679347413505
+ORD-1646,2024-03-04,Crystal Lewis,West Tina,Teknoloji,Telefon,21240,5,3447.0938705863346
+ORD-1647,2024-04-14,Andrea Sharp,New Richard,Mobilya,Kitaplık,124,2,14.858781557130925
+ORD-1648,2024-04-08,Jason Dalton,West Joshua,Teknoloji,Telefon,9044,4,2455.718459939877
+ORD-1649,2024-04-06,Valerie Dunn,Benjaminhaven,Ofis Malzemeleri,Kağıt,60,1,13.781941249075205
+ORD-1650,2026-01-02,Mark Rowe,Lake Danielfurt,Ofis Malzemeleri,Kalem Seti,1140,5,273.56831496532004
+ORD-1651,2026-01-19,Jacob Perkins,South Paulahaven,Ofis Malzemeleri,Kalem Seti,445,5,124.65375988041957
+ORD-1652,2026-02-18,Daniel Santiago,New Heather,Teknoloji,Telefon,3045,3,674.1131618635968
+ORD-1653,2025-07-12,Kenneth Smith,East Seanberg,Mobilya,Lamba,1780,4,448.4697111899868
+ORD-1654,2025-10-13,Jeffrey Whitney,Charlesview,Teknoloji,Laptop,3634,1,435.60558564357723
+ORD-1655,2025-04-21,Mark Crosby,North Charleschester,Teknoloji,Klavye,564,3,162.86733699008698
+ORD-1656,2025-07-10,Max Hawkins,West Gregoryshire,Ofis Malzemeleri,Zımba,492,2,140.14402972019593
+ORD-1657,2024-09-12,Terri Hernandez,Lake Jamesburgh,Mobilya,Sandalye,352,2,68.54497306974433
+ORD-1658,2024-09-05,Tracy Phelps,Sheltonmouth,Ofis Malzemeleri,Zımba,159,3,36.92780456130418
+ORD-1659,2024-03-28,Jeffrey King,North Sandra,Teknoloji,Laptop,14577,3,3810.352297226384
+ORD-1660,2025-01-29,Robin Kennedy,West Philip,Teknoloji,Monitör,748,1,177.76251798760597
+ORD-1661,2024-06-18,Kenneth Tucker,Petermouth,Ofis Malzemeleri,Kağıt,924,2,180.59286661257946
+ORD-1662,2025-11-07,Peter Snyder,New Amyburgh,Teknoloji,Laptop,14176,4,2171.826921642526
+ORD-1663,2025-11-02,Kayla Park,South Rebecca,Mobilya,Masa,1900,4,530.1288158309636
+ORD-1664,2025-06-26,Patricia Owens,North David,Mobilya,Lamba,186,2,48.644783547611596
+ORD-1665,2025-11-10,Marissa Duarte,Hinesmouth,Ofis Malzemeleri,Kalem Seti,584,2,77.46050585381755
+ORD-1666,2024-10-28,Lindsay Fuentes,West John,Ofis Malzemeleri,Kağıt,2425,5,627.5527680142609
+ORD-1667,2025-06-03,Leslie Simmons,South David,Teknoloji,Telefon,274,2,37.677554683938766
+ORD-1668,2025-08-02,Eric Alvarez,North Virginia,Ofis Malzemeleri,Kağıt,657,3,128.32159371490883
+ORD-1669,2024-12-27,Thomas Jones,North Christopherville,Teknoloji,Laptop,2344,2,659.2725513601285
+ORD-1670,2025-02-21,Tamara Myers,New Jonathan,Teknoloji,Telefon,3165,5,794.4156429016244
+ORD-1671,2024-07-07,Roberto Maxwell,Corytown,Mobilya,Masa,218,1,46.56534392643926
+ORD-1672,2024-05-12,Sandra Carroll,South Katie,Teknoloji,Laptop,3998,2,1016.730653350693
+ORD-1673,2024-08-18,Sarah Hawkins,Port Savannahchester,Mobilya,Masa,1735,5,396.9266699067412
+ORD-1674,2024-03-17,Michael Gomez,East Matthewport,Ofis Malzemeleri,Dosya,158,1,46.90919828767539
+ORD-1675,2025-01-16,Carol Nicholson,Justinport,Mobilya,Lamba,159,3,35.61339348648677
+ORD-1676,2024-05-17,Brandy Terry,Lake Jeffrey,Teknoloji,Telefon,3166,2,539.9907659739845
+ORD-1677,2025-11-21,Hunter Villanueva,Sarahshire,Mobilya,Masa,876,3,158.1828532744929
+ORD-1678,2024-08-02,Bryan Taylor,Jenniferland,Mobilya,Masa,716,4,214.5829778016944
+ORD-1679,2024-06-30,Jennifer Lucero,Amyshire,Teknoloji,Laptop,8788,4,2146.404791216758
+ORD-1680,2024-07-20,Kelly Green,East Rita,Teknoloji,Telefon,9995,5,2231.369420842653
+ORD-1681,2025-09-09,Lisa Tucker,Barrhaven,Mobilya,Sandalye,805,5,130.486799319956
+ORD-1682,2025-03-10,Richard Taylor,Simpsonfort,Mobilya,Kitaplık,1092,4,321.4382721756719
+ORD-1683,2025-06-16,Christopher Crawford,Smithport,Ofis Malzemeleri,Kalem Seti,1030,5,277.315223845368
+ORD-1684,2025-08-03,Andrea Davis,North Bobby,Mobilya,Masa,148,2,19.74351148816006
+ORD-1685,2025-12-01,William Allen,Tonyachester,Teknoloji,Monitör,2260,2,578.9230560205518
+ORD-1686,2025-06-15,Zachary Jones,South Billy,Ofis Malzemeleri,Kalem Seti,2460,5,442.7566532256959
+ORD-1687,2025-07-27,Michael Chambers,Brucemouth,Mobilya,Masa,254,1,43.28643217831145
+ORD-1688,2025-08-26,Lisa Mason,West Heatherview,Mobilya,Kitaplık,97,1,29.005387688234908
+ORD-1689,2026-01-03,Joyce Carter,Charlesfurt,Teknoloji,Laptop,7500,2,1628.7757359605798
+ORD-1690,2024-03-13,Laurie Baker,Schmittton,Teknoloji,Monitör,437,1,46.6933244258985
+ORD-1691,2024-10-11,Thomas Wyatt,Katieton,Ofis Malzemeleri,Zımba,895,5,258.5368779502292
+ORD-1692,2024-12-21,David Hall,New Tammyport,Ofis Malzemeleri,Dosya,1688,4,245.6112571350715
+ORD-1693,2025-11-23,Jason Thomas,Traciechester,Mobilya,Kitaplık,1068,4,183.54031096647802
+ORD-1694,2026-01-16,Ian Romero,Lake Michaelaport,Ofis Malzemeleri,Kalem Seti,1204,4,244.98743132394264
+ORD-1695,2024-11-01,Bonnie Armstrong,New Ryan,Teknoloji,Klavye,15792,4,2431.0813223587575
+ORD-1696,2025-07-02,Krista Reyes MD,West Patrickhaven,Ofis Malzemeleri,Zımba,2245,5,469.5369979885621
+ORD-1697,2026-02-13,Rachel Meza,Barryton,Mobilya,Kitaplık,2135,5,496.42702466223705
+ORD-1698,2024-06-09,Maria Matthews,Lake Kimberly,Teknoloji,Telefon,8570,2,2318.187324250617
+ORD-1699,2025-01-25,Nicole Cox,Martinbury,Ofis Malzemeleri,Dosya,612,4,168.89125041898873
+ORD-1700,2024-12-08,Kirk Perez,Janetborough,Ofis Malzemeleri,Kağıt,276,1,59.693635611424966
+ORD-1701,2025-10-13,Anthony Stewart,Lake Oscarfurt,Ofis Malzemeleri,Zımba,100,1,27.476792249818192
+ORD-1702,2024-05-30,Annette Valencia,New Christopher,Ofis Malzemeleri,Zımba,335,1,62.981926254871
+ORD-1703,2024-11-25,Dorothy Fox,Richardsside,Teknoloji,Laptop,12764,4,1958.929855950264
+ORD-1704,2024-09-26,Mary Hooper,West Erinview,Mobilya,Kitaplık,798,3,233.52465930657183
+ORD-1705,2025-10-14,Jesse Walsh,Valdezburgh,Ofis Malzemeleri,Zımba,1204,4,277.9564600490833
+ORD-1706,2024-09-15,Nicole Dickerson,Alyssamouth,Teknoloji,Monitör,8028,2,1527.3962048319004
+ORD-1707,2024-03-02,Courtney Marquez,Blairton,Mobilya,Sandalye,1335,3,172.82838726463737
+ORD-1708,2025-10-03,Bobby Carpenter,Lake Arthurport,Ofis Malzemeleri,Kağıt,702,3,208.66043988547156
+ORD-1709,2025-07-02,Alan Johnson,New Danielle,Teknoloji,Laptop,3917,1,566.005795741732
+ORD-1710,2024-04-27,Deborah Hammond,North Jeffery,Teknoloji,Klavye,7782,3,1076.516453274061
+ORD-1711,2024-05-10,Jason Kramer,Port Roymouth,Mobilya,Masa,630,5,80.67545195739366
+ORD-1712,2025-12-28,Brandon Ramos,New Kelseyfort,Teknoloji,Monitör,5616,2,1260.2355145239162
+ORD-1713,2024-08-24,Justin Frye,West Sarah,Mobilya,Kitaplık,54,1,13.98676279911661
+ORD-1714,2025-03-13,Tracy Evans,East Susanland,Mobilya,Sandalye,472,1,58.40661544304294
+ORD-1715,2024-10-19,Allison Meyers,North Joel,Mobilya,Masa,622,2,63.89968265499266
+ORD-1716,2025-10-12,Laura Simon,South Scott,Ofis Malzemeleri,Zımba,1900,5,236.56475501233857
+ORD-1717,2026-01-24,Bradley Smith,Michaelshire,Mobilya,Lamba,163,1,25.97574862845772
+ORD-1718,2024-09-30,Mary Carter,New Todd,Ofis Malzemeleri,Kağıt,308,4,39.26851889317077
+ORD-1719,2025-08-30,Brandon Bates,Greenstad,Teknoloji,Klavye,6386,2,1776.0199041681929
+ORD-1720,2025-09-01,Carla Hayes,Christopherville,Mobilya,Kitaplık,423,1,55.87557119851516
+ORD-1721,2024-08-07,David Howard,North Christopher,Mobilya,Sandalye,369,3,41.089624542660545
+ORD-1722,2025-05-24,Justin Lopez,Carlsonberg,Ofis Malzemeleri,Zımba,910,2,119.90959232354972
+ORD-1723,2025-12-16,Bethany Reyes,Lake Kristiemouth,Ofis Malzemeleri,Kalem Seti,1190,5,309.76594461967994
+ORD-1724,2025-08-30,Kenneth Figueroa,Audreyberg,Ofis Malzemeleri,Kağıt,266,2,50.297849515127574
+ORD-1725,2025-08-01,Andrew Everett,Velazquezbury,Ofis Malzemeleri,Dosya,1436,4,210.79978218625584
+ORD-1726,2025-06-01,Justin Thompson,Morganberg,Teknoloji,Laptop,11888,4,3208.977706721001
+ORD-1727,2025-04-29,Jeremiah James,Masonchester,Ofis Malzemeleri,Dosya,752,4,148.7566451478326
+ORD-1728,2024-10-05,Roger Duffy,Kevinchester,Teknoloji,Telefon,11820,5,3182.4330982773354
+ORD-1729,2024-03-06,Amanda Wright,Fergusonfort,Ofis Malzemeleri,Kalem Seti,1295,5,359.0607950840749
+ORD-1730,2025-12-07,Sheila Williams,South Megan,Mobilya,Masa,400,2,74.18273405712155
+ORD-1731,2025-12-17,Brian Willis,Cookhaven,Teknoloji,Monitör,2214,3,290.9376403243154
+ORD-1732,2026-01-17,Mary Mahoney,Carrstad,Mobilya,Masa,486,2,103.77766084163746
+ORD-1733,2025-03-25,Jennifer Armstrong,Taylorfort,Teknoloji,Klavye,3138,1,391.0774278507927
+ORD-1734,2025-06-06,Daniel Roberts,West Jeremy,Ofis Malzemeleri,Zımba,184,4,21.698558619044903
+ORD-1735,2025-07-29,Laura Davis,Krystalmouth,Mobilya,Sandalye,274,2,42.140483637381024
+ORD-1736,2026-01-12,Dale Williamson DDS,Kellyton,Mobilya,Sandalye,64,4,15.202987553376888
+ORD-1737,2025-12-02,Steven Richardson,Port Kimberlyport,Mobilya,Kitaplık,554,2,57.68791416315803
+ORD-1738,2024-09-08,Ashley Hobbs,South Jamiestad,Ofis Malzemeleri,Zımba,1196,4,136.48343135457242
+ORD-1739,2024-10-20,Emily Dean,West Phyllisfurt,Teknoloji,Klavye,530,2,158.70564100137796
+ORD-1740,2025-01-26,Cathy Farrell,Lake Jennifer,Ofis Malzemeleri,Kalem Seti,2305,5,666.3794237988882
+ORD-1741,2024-08-11,Chad Johnson,Riverahaven,Teknoloji,Telefon,12556,4,3626.391899196385
+ORD-1742,2025-12-29,Sonya Pearson,Boydmouth,Ofis Malzemeleri,Kalem Seti,832,2,164.88372124924996
+ORD-1743,2024-12-27,Molly James,Jordanbury,Mobilya,Lamba,315,1,90.74292721299535
+ORD-1744,2025-11-08,Jacqueline Bishop,Aprilstad,Mobilya,Lamba,457,1,71.35118949505446
+ORD-1745,2024-03-24,Dr. Douglas Hall,Maureenland,Ofis Malzemeleri,Kağıt,1584,4,294.04174206949006
+ORD-1746,2024-03-04,Mark Ellis,Burtonstad,Mobilya,Lamba,352,1,88.18268577129494
+ORD-1747,2024-11-23,Tiffany Nelson,Fieldsborough,Teknoloji,Monitör,6856,4,705.5388535331068
+ORD-1748,2026-01-30,Melinda King,East Colinstad,Ofis Malzemeleri,Zımba,26,1,3.4906958384228455
+ORD-1749,2025-07-26,Jasmine Pacheco,Marcusport,Teknoloji,Monitör,4659,3,1180.3469122954773
+ORD-1750,2025-10-20,Jorge Collins,Andrewland,Mobilya,Sandalye,111,1,17.20676990337359
+ORD-1751,2025-12-21,Mrs. Jasmine Aguilar,Romantown,Mobilya,Masa,357,3,67.24394889827556
+ORD-1752,2025-06-14,Holly Jackson,North Jeremy,Ofis Malzemeleri,Kağıt,540,5,106.95255239109703
+ORD-1753,2024-06-14,Susan Thompson,Rosshaven,Ofis Malzemeleri,Zımba,216,2,43.809247747204516
+ORD-1754,2026-01-09,Joshua Hart,Steveland,Teknoloji,Klavye,4488,4,693.4963730978756
+ORD-1755,2024-06-16,Sharon Lewis,East Michelle,Mobilya,Lamba,1017,3,134.40162433767492
+ORD-1756,2025-05-25,Kevin Davis,New Denise,Ofis Malzemeleri,Zımba,1690,5,422.68231167819306
+ORD-1757,2024-08-13,Robert Zimmerman,New Tinamouth,Ofis Malzemeleri,Kağıt,70,1,14.31821152850259
+ORD-1758,2024-11-11,Randy Gilmore,Lake Richardtown,Mobilya,Sandalye,2460,5,477.3560181416015
+ORD-1759,2026-01-10,Jimmy Andrews,Morrisberg,Mobilya,Masa,870,3,105.7718503105909
+ORD-1760,2024-10-27,Cheryl Estrada,South Benjamin,Mobilya,Lamba,1485,3,403.6330741204281
+ORD-1761,2024-08-07,John Pace,Madisonfurt,Mobilya,Kitaplık,185,1,22.479533332361623
+ORD-1762,2025-03-09,Pamela Washington,Morrisberg,Teknoloji,Telefon,1854,2,528.1302653172048
+ORD-1763,2024-08-17,Luis Haynes,Clarkton,Ofis Malzemeleri,Dosya,532,2,60.327431332474646
+ORD-1764,2025-09-26,Pamela Coleman,North Davidstad,Mobilya,Masa,1805,5,299.1002961743446
+ORD-1765,2026-01-01,Pamela Reid,South Sharon,Ofis Malzemeleri,Dosya,105,5,23.051681381019737
+ORD-1766,2025-12-28,Kathleen Villarreal,North Mark,Ofis Malzemeleri,Zımba,867,3,256.2094578506809
+ORD-1767,2025-08-28,Anthony Logan,West Leah,Teknoloji,Monitör,10032,3,1594.1874423548757
+ORD-1768,2024-06-25,Matthew Taylor,Port Katherine,Ofis Malzemeleri,Kağıt,798,2,107.53626550780398
+ORD-1769,2024-08-19,Michael Zamora,Loganville,Mobilya,Kitaplık,444,2,129.71911913639286
+ORD-1770,2024-10-09,Claire Adams,Williamsborough,Mobilya,Lamba,424,4,76.0932930488629
+ORD-1771,2024-08-27,Jacob Mcfarland,East Mark,Ofis Malzemeleri,Kalem Seti,412,1,67.11181636618119
+ORD-1772,2024-04-02,Jessica Turner,East Danielle,Teknoloji,Klavye,7790,5,1802.5628547898089
+ORD-1773,2024-06-04,April Nguyen,Ryanland,Ofis Malzemeleri,Dosya,266,2,50.82707742451846
+ORD-1774,2024-09-22,David Hall,West Christinachester,Teknoloji,Laptop,19025,5,5645.187063230032
+ORD-1775,2025-08-20,William Smith,New Darylfurt,Ofis Malzemeleri,Zımba,1008,3,196.1844211920242
+ORD-1776,2024-08-25,Megan Sullivan,Leslieside,Mobilya,Sandalye,180,1,20.012681893059863
+ORD-1777,2024-07-28,Antonio Stephens,Lake Rachelport,Mobilya,Lamba,794,2,233.52687120489807
+ORD-1778,2025-06-26,Samuel King Jr.,Johnmouth,Teknoloji,Laptop,4613,1,865.1840830479747
+ORD-1779,2025-06-19,Michael Gamble,Vaughantown,Teknoloji,Laptop,5118,2,1347.009626203747
+ORD-1780,2024-05-26,Kayla Bishop,New Joshua,Ofis Malzemeleri,Kağıt,1445,5,326.4186227278837
+ORD-1781,2026-01-26,Robert Walton,Stevenshire,Mobilya,Lamba,777,3,133.36343659536578
+ORD-1782,2025-10-28,Jamie Prince,South Christina,Ofis Malzemeleri,Zımba,186,3,30.68885867109438
+ORD-1783,2025-09-11,Sharon Oneill,Lyonsfort,Teknoloji,Klavye,12864,3,1778.6486663749367
+ORD-1784,2025-11-09,Danielle Smith,Lake Stevenburgh,Mobilya,Masa,186,3,43.24527468165903
+ORD-1785,2024-06-11,Annette Nguyen,New Lorichester,Ofis Malzemeleri,Kağıt,1828,4,424.2716994195534
+ORD-1786,2025-12-25,Leah Cannon,Jenkinsmouth,Ofis Malzemeleri,Kağıt,801,3,196.33864924870517
+ORD-1787,2025-10-27,Justin Keller,Williamsburgh,Ofis Malzemeleri,Kağıt,489,1,134.7692965914199
+ORD-1788,2024-11-19,Ian Hamilton,Port Joseph,Teknoloji,Telefon,5248,2,644.9086883503351
+ORD-1789,2024-07-16,Sarah Smith,Hollymouth,Mobilya,Kitaplık,99,1,17.70748424949307
+ORD-1790,2025-05-26,Michael Thomas,Lake Jorge,Mobilya,Masa,45,3,5.654871677742794
+ORD-1791,2025-02-27,Robert Garza,Port Kristinchester,Ofis Malzemeleri,Kağıt,482,1,63.938011921246826
+ORD-1792,2025-11-06,Julie Mclean,Port Amandaburgh,Mobilya,Kitaplık,594,3,171.64669314326372
+ORD-1793,2025-04-03,Daniel Dickson,East Ronaldport,Teknoloji,Telefon,5096,4,1450.7032240153942
+ORD-1794,2026-02-05,Jon Keller,East Mariabury,Teknoloji,Laptop,4280,5,673.4721723502126
+ORD-1795,2024-10-25,Michael Duffy,Fosterfort,Mobilya,Lamba,744,2,78.91351680913408
+ORD-1796,2025-10-16,Eric Sampson,Gardnerstad,Teknoloji,Monitör,7130,5,1556.27566366493
+ORD-1797,2024-09-19,Lisa Sims,Taylorville,Ofis Malzemeleri,Kalem Seti,1920,5,467.4891842503185
+ORD-1798,2025-08-05,Nancy Perry,East Christopher,Mobilya,Masa,884,2,261.1525854568794
+ORD-1799,2024-03-14,Thomas Mcbride,West Hannah,Teknoloji,Klavye,4536,3,512.4049504462829
+ORD-1800,2025-12-18,Lori Conrad,New Sean,Ofis Malzemeleri,Kalem Seti,1820,4,287.5370288891311
+ORD-1801,2026-01-05,Jacob Blackwell,West Melissa,Teknoloji,Klavye,12736,4,2479.6360399818377
+ORD-1802,2025-12-15,Robert West,Allenville,Mobilya,Lamba,1052,4,215.44784176776395
+ORD-1803,2024-07-24,Luis Brown,Lopezfort,Teknoloji,Monitör,9034,2,1736.3619717922786
+ORD-1804,2025-11-18,Katherine Simmons,East Jamesfurt,Ofis Malzemeleri,Dosya,2360,5,571.9394418903418
+ORD-1805,2026-01-17,Charles Wallace,Port Heather,Mobilya,Kitaplık,622,2,181.0950383301019
+ORD-1806,2025-04-26,Lindsay Ewing,Lisaborough,Teknoloji,Laptop,9230,2,2676.5356113906237
+ORD-1807,2025-01-23,Jonathan Smith,North Debbie,Ofis Malzemeleri,Dosya,750,2,182.75825848838033
+ORD-1808,2024-09-12,Katherine Delgado,South Tiffany,Teknoloji,Laptop,7198,2,1146.1568096573283
+ORD-1809,2024-09-08,Jessica Gonzalez,Markborough,Teknoloji,Telefon,5655,3,703.156916061001
+ORD-1810,2025-10-22,Alicia Atkins,Port Kelly,Mobilya,Sandalye,70,5,19.35519875470875
+ORD-1811,2024-11-01,Michelle Castillo,South Michael,Mobilya,Lamba,822,3,190.55737290414854
+ORD-1812,2024-11-20,Nancy Manning,Port Nancy,Teknoloji,Laptop,10568,4,1891.4720807158462
+ORD-1813,2025-10-24,Tamara Smith,North Tiffany,Teknoloji,Laptop,1770,2,382.1803884906864
+ORD-1814,2025-07-04,Jaclyn Powers,Port Justintown,Teknoloji,Telefon,2019,1,389.13623821165214
+ORD-1815,2024-11-11,Denise Cain,Scottmouth,Ofis Malzemeleri,Kalem Seti,210,3,47.56023293756189
+ORD-1816,2025-03-30,Andrea Odom,Stevenland,Mobilya,Kitaplık,316,2,42.681790144036086
+ORD-1817,2024-05-29,James Smith,Lisaview,Ofis Malzemeleri,Zımba,230,5,35.273148367982635
+ORD-1818,2025-05-29,Edward Johnson,North Aaron,Teknoloji,Monitör,2528,2,335.00090546988815
+ORD-1819,2025-04-04,Tiffany Campbell,Port Chrisshire,Mobilya,Lamba,1048,4,259.2656954763562
+ORD-1820,2024-11-24,Anthony Brown,Nathanchester,Ofis Malzemeleri,Zımba,585,5,165.12646154195195
+ORD-1821,2025-11-26,Amber Davis,Williamsside,Mobilya,Lamba,414,3,119.93005037427498
+ORD-1822,2024-12-29,Terry Rowe,New Blakehaven,Mobilya,Kitaplık,1192,4,126.08630682731632
+ORD-1823,2026-01-10,Charles Cooper,South Justinberg,Teknoloji,Monitör,2457,1,262.4539731963746
+ORD-1824,2024-10-16,Debra Caldwell,New Susanmouth,Mobilya,Kitaplık,1352,4,238.51266556418364
+ORD-1825,2025-10-30,Bryan Jones,Emilyhaven,Mobilya,Sandalye,680,4,158.91994807522823
+ORD-1826,2025-06-24,Harold Soto DDS,Christinafurt,Mobilya,Lamba,97,1,14.856658557796926
+ORD-1827,2025-09-20,David Gonzalez,Brianville,Ofis Malzemeleri,Kalem Seti,519,3,60.86922462530777
+ORD-1828,2024-08-24,Tammie Guerrero,Jenniferport,Ofis Malzemeleri,Dosya,375,3,103.31593178712546
+ORD-1829,2024-03-11,Susan Gray,Wendyhaven,Mobilya,Lamba,415,5,121.53377254225329
+ORD-1830,2025-07-27,Michelle Scott,Robertbury,Ofis Malzemeleri,Kalem Seti,952,4,233.6029501660948
+ORD-1831,2024-11-07,Jennifer Whitehead,West Christopherhaven,Ofis Malzemeleri,Kalem Seti,1044,3,107.05988148954573
+ORD-1832,2025-01-29,Kaitlyn Hale,Williamsfurt,Teknoloji,Laptop,19400,5,4308.286316767968
+ORD-1833,2024-12-14,William Marshall,Sophiashire,Teknoloji,Monitör,929,1,196.04248604157922
+ORD-1834,2024-05-08,Charles Davis,Port Michael,Teknoloji,Klavye,13911,3,3501.873932440525
+ORD-1835,2024-06-12,Brian Moss,Michaelborough,Teknoloji,Monitör,10620,5,1631.757755609917
+ORD-1836,2025-09-21,Dennis Lopez,Frankhaven,Ofis Malzemeleri,Dosya,242,2,35.529889444378284
+ORD-1837,2025-01-07,Angela Wilson,West Shelbyfort,Teknoloji,Laptop,17215,5,4588.030247848657
+ORD-1838,2024-04-22,Michael Wu,New Brendabury,Teknoloji,Monitör,1984,4,416.9472933285851
+ORD-1839,2026-02-14,Joel Holmes,West Michael,Mobilya,Kitaplık,275,1,80.53071165142994
+ORD-1840,2024-11-12,Brian Henson,Timothystad,Teknoloji,Monitör,2205,5,618.3144041155588
+ORD-1841,2024-12-11,Aaron Sheppard,Jacksonfort,Teknoloji,Monitör,2942,2,692.6725674656159
+ORD-1842,2024-05-31,Susan Jones,New Linda,Teknoloji,Klavye,7329,3,1280.9771210586957
+ORD-1843,2026-01-03,Dr. Eric Franklin,Christopherstad,Ofis Malzemeleri,Zımba,548,2,58.605444498333874
+ORD-1844,2025-09-02,Benjamin Perez,Tracychester,Ofis Malzemeleri,Kalem Seti,2130,5,345.348417924121
+ORD-1845,2025-04-28,Krista Guzman,Haroldbury,Mobilya,Masa,1652,4,493.0153109474075
+ORD-1846,2024-11-11,James Michael,Port Jose,Ofis Malzemeleri,Kağıt,300,2,66.54941581586826
+ORD-1847,2025-11-21,Emily Walker,Jayfort,Mobilya,Kitaplık,140,2,40.456085940417736
+ORD-1848,2025-11-10,Randy Cole,Scottville,Teknoloji,Telefon,10869,3,2850.5017150685817
+ORD-1849,2024-07-08,David Cole,Brownchester,Mobilya,Kitaplık,630,5,126.48567794251186
+ORD-1850,2024-04-05,Patrick Wilson,West Shelleyberg,Teknoloji,Klavye,1000,5,241.55622426503027
+ORD-1851,2024-08-21,John Rodriguez PhD,Loriport,Mobilya,Sandalye,828,2,142.52047594082143
+ORD-1852,2024-08-12,Judy Petersen,West Tony,Ofis Malzemeleri,Kağıt,560,2,58.43057914465345
+ORD-1853,2025-05-14,Anna Armstrong,West David,Mobilya,Lamba,236,1,33.785475707994166
+ORD-1854,2024-03-25,Dr. Jeremy Evans,New Edwardton,Teknoloji,Klavye,4795,1,577.6930519958548
+ORD-1855,2024-03-08,Emma Owens,Port Scott,Ofis Malzemeleri,Kağıt,94,1,15.342849476155783
+ORD-1856,2024-09-22,Dennis Riley,Baxterview,Mobilya,Masa,685,5,142.12554776244608
+ORD-1857,2024-08-12,David Mcdowell,Mendozatown,Teknoloji,Telefon,19795,5,2183.9679512840853
+ORD-1858,2024-08-21,Kathleen Faulkner,Lake Derrickburgh,Teknoloji,Klavye,7611,3,2171.7629986784236
+ORD-1859,2025-07-02,Sarah Monroe,Mckeeberg,Ofis Malzemeleri,Kalem Seti,850,2,235.88121709578797
+ORD-1860,2024-09-04,Jordan Reynolds,Meadowsville,Ofis Malzemeleri,Kalem Seti,182,1,21.49295186168204
+ORD-1861,2024-05-13,Nicholas Gregory,Courtneychester,Ofis Malzemeleri,Kalem Seti,395,1,41.19847734767815
+ORD-1862,2025-07-06,Jacob Gregory,Michaelburgh,Ofis Malzemeleri,Kalem Seti,681,3,121.98569846636906
+ORD-1863,2025-09-12,Kimberly Escobar,Lake Susan,Ofis Malzemeleri,Kağıt,406,1,113.44578706015571
+ORD-1864,2024-07-07,Sarah Gonzalez,Fredericktown,Teknoloji,Klavye,7228,4,1670.7506819727646
+ORD-1865,2026-02-03,Christopher Mercado,New Jonathan,Mobilya,Masa,130,2,14.33306427865215
+ORD-1866,2024-06-17,Michael Cain,Lake Brad,Teknoloji,Telefon,3450,1,916.0590381424016
+ORD-1867,2024-06-14,Tyler Scott,East Kevinbury,Mobilya,Lamba,332,1,95.22977760480535
+ORD-1868,2025-01-25,Troy Johnson,Robertview,Ofis Malzemeleri,Zımba,296,2,84.10876412631781
+ORD-1869,2025-10-01,Charles Bauer,Lake Rodneyport,Ofis Malzemeleri,Kağıt,1930,5,506.44588831291526
+ORD-1870,2025-04-09,Ryan Cisneros,Littlestad,Ofis Malzemeleri,Kağıt,216,3,48.35783013003375
+ORD-1871,2024-07-05,Stephen Hicks,North Erica,Ofis Malzemeleri,Zımba,714,2,197.4058062459278
+ORD-1872,2024-11-07,Jason Cochran,Conleyton,Ofis Malzemeleri,Kalem Seti,208,4,33.05086993362077
+ORD-1873,2024-05-19,Abigail Shaw,Robinsonland,Mobilya,Lamba,1576,4,207.01550185293823
+ORD-1874,2025-12-05,Sarah Hunt,Carlsonborough,Mobilya,Masa,880,5,139.52352030008572
+ORD-1875,2025-03-21,Dennis Gonzalez,East Sonya,Ofis Malzemeleri,Kağıt,111,3,27.15439240122403
+ORD-1876,2024-08-14,Heather Bryant,Kevinview,Ofis Malzemeleri,Kağıt,1712,4,452.17769969059856
+ORD-1877,2024-10-03,Justin Foster,North David,Ofis Malzemeleri,Kağıt,1872,4,268.7910824730871
+ORD-1878,2025-08-11,Jodi West,New Hannah,Ofis Malzemeleri,Dosya,88,4,20.263777325838493
+ORD-1879,2026-01-07,Michaela Hill,West Rhondaland,Ofis Malzemeleri,Dosya,1250,5,359.40857206681716
+ORD-1880,2025-01-29,George Haley,Lake Anitatown,Ofis Malzemeleri,Zımba,416,2,98.48610593571581
+ORD-1881,2024-08-19,Derrick Sanford,North Sherri,Ofis Malzemeleri,Zımba,309,1,67.74220873843055
+ORD-1882,2025-09-05,Gregory Gibson,North Kimberly,Mobilya,Kitaplık,330,1,46.492521796036655
+ORD-1883,2025-09-02,Ashley Gray,Watsonport,Mobilya,Masa,2085,5,500.0486236950416
+ORD-1884,2024-07-13,Amanda Floyd,Port Anna,Mobilya,Lamba,832,2,152.8817060161335
+ORD-1885,2024-09-19,Mark Stevens,Cruzton,Teknoloji,Monitör,6688,4,1082.7895385964537
+ORD-1886,2025-04-08,Kevin Smith,Stewartton,Teknoloji,Klavye,14152,4,2577.014038249782
+ORD-1887,2026-01-24,Leah Shelton,Jasonchester,Ofis Malzemeleri,Zımba,452,4,69.86402310611713
+ORD-1888,2026-01-24,Katherine Sanders,East Stephanieshire,Ofis Malzemeleri,Kağıt,252,2,68.9994643288391
+ORD-1889,2025-01-28,Jeremy Chang,Lake Melanieland,Ofis Malzemeleri,Kalem Seti,1664,4,383.49591431337126
+ORD-1890,2025-01-13,William Durham,Cookton,Mobilya,Masa,240,4,30.49035359595215
+ORD-1891,2026-02-17,Sabrina Cross,West Anthonyshire,Teknoloji,Laptop,8448,4,2401.9199395217342
+ORD-1892,2026-01-04,Brian Johnson,Port Brendashire,Ofis Malzemeleri,Zımba,1964,4,565.2954464116904
+ORD-1893,2024-05-27,Rebecca Curry,South Denise,Ofis Malzemeleri,Zımba,1389,3,145.19825880583187
+ORD-1894,2025-01-29,Sherry Hernandez,Port Ashley,Ofis Malzemeleri,Dosya,760,2,158.88034163741222
+ORD-1895,2025-05-20,Sara Yu,New Isaac,Mobilya,Lamba,646,2,154.54149216250937
+ORD-1896,2025-02-09,Caleb Richardson,North Erinville,Mobilya,Kitaplık,1072,4,198.58632359827828
+ORD-1897,2025-05-11,James Carter,Port Cassandra,Teknoloji,Monitör,4264,4,771.290993692146
+ORD-1898,2025-04-19,Jerry Schwartz,Schwartzchester,Teknoloji,Monitör,5420,2,866.237291942859
+ORD-1899,2024-08-15,Stephen Wade,Lake Teresa,Mobilya,Masa,178,1,24.590649739010217
+ORD-1900,2024-07-26,David Mitchell,South Jessicaburgh,Mobilya,Kitaplık,418,2,121.34353539187174
+ORD-1901,2025-10-24,Meghan Mcdonald,East Rebekah,Ofis Malzemeleri,Zımba,741,3,185.66762510376944
+ORD-1902,2024-08-28,Tyler Gilmore,Carterview,Mobilya,Lamba,1700,5,447.45905367456453
+ORD-1903,2024-12-23,Louis Browning,South Isabel,Teknoloji,Klavye,2892,2,405.6127248307814
+ORD-1904,2024-06-16,Dennis Klein,New Tonyhaven,Mobilya,Lamba,1960,5,350.330598606807
+ORD-1905,2025-07-24,Ryan Gonzalez,Karenberg,Ofis Malzemeleri,Kalem Seti,726,2,164.38730999692606
+ORD-1906,2025-07-20,Kathryn Schneider,New Tyler,Teknoloji,Telefon,8744,2,1402.6236980156898
+ORD-1907,2025-11-18,Deborah Rubio,Millsmouth,Ofis Malzemeleri,Kağıt,1266,3,372.548948238952
+ORD-1908,2024-03-11,Patrick Cervantes,Connieview,Teknoloji,Klavye,4182,2,438.95620470937564
+ORD-1909,2024-03-14,Lauren Wright,Richardland,Mobilya,Masa,435,3,96.52093858745313
+ORD-1910,2024-10-31,Hunter Reid,Thomaschester,Ofis Malzemeleri,Kalem Seti,537,3,126.17115619103888
+ORD-1911,2025-04-12,Stephanie Carter,Colemanmouth,Mobilya,Lamba,1014,3,264.7646899094348
+ORD-1912,2025-01-16,Alicia Morgan,East Sylviaport,Mobilya,Kitaplık,291,1,71.74013338831332
+ORD-1913,2024-11-11,Ronald Pena,East Chelseaberg,Ofis Malzemeleri,Dosya,2080,5,385.61310012343773
+ORD-1914,2024-07-25,Kevin Wright,West Douglas,Ofis Malzemeleri,Kağıt,1465,5,364.3940945130627
+ORD-1915,2024-07-16,Jose Patterson,Dustinborough,Ofis Malzemeleri,Dosya,1536,4,336.0636858019627
+ORD-1916,2024-11-25,Richard Daniel,West Jeffrey,Teknoloji,Klavye,7290,2,820.9626324738261
+ORD-1917,2025-09-15,Dennis Lewis,East Carol,Teknoloji,Telefon,11475,3,1874.702700710803
+ORD-1918,2024-08-08,Nicole Weber,Loriburgh,Teknoloji,Monitör,101,1,28.389658275884234
+ORD-1919,2025-08-18,Michelle Wilkinson DVM,Port Joanne,Ofis Malzemeleri,Kağıt,1430,5,285.54054394845036
+ORD-1920,2026-01-01,Randall Mcpherson,West Ryanfurt,Ofis Malzemeleri,Kağıt,47,1,7.4906304528276015
+ORD-1921,2025-07-31,Miss Joan Johnston,Micheleport,Mobilya,Kitaplık,1356,3,315.9643820225951
+ORD-1922,2024-09-15,Shari Day DDS,Traceyton,Ofis Malzemeleri,Zımba,275,1,29.243415263098985
+ORD-1923,2024-03-17,Samantha Mcdonald,Lake Tanya,Mobilya,Kitaplık,532,4,62.29988699220389
+ORD-1924,2025-08-10,Zachary Hill,North Teresa,Teknoloji,Telefon,5715,3,907.5086425898907
+ORD-1925,2024-06-05,Laura Gross,Lopezmouth,Ofis Malzemeleri,Dosya,64,1,16.76892859365278
+ORD-1926,2024-05-31,Angela Park,South Tanner,Ofis Malzemeleri,Dosya,1172,4,302.2567035610308
+ORD-1927,2024-07-10,Daniel Benson,Riosmouth,Mobilya,Kitaplık,2075,5,473.26151031455953
+ORD-1928,2025-03-28,Keith Martin,South Isabelstad,Teknoloji,Laptop,9600,4,1932.7866621313228
+ORD-1929,2024-09-13,Amanda White,Patriciachester,Ofis Malzemeleri,Dosya,1840,4,461.62044676340537
+ORD-1930,2024-09-26,Stephen Murphy,East Thomas,Mobilya,Masa,710,5,123.3389604735719
+ORD-1931,2025-12-25,Nathan Smith,East Seanport,Teknoloji,Monitör,4458,2,464.8781187927341
+ORD-1932,2026-02-11,Dr. Megan Church DDS,Benderside,Mobilya,Lamba,602,2,74.98318508591694
+ORD-1933,2025-04-21,Ryan Russell,Henrymouth,Mobilya,Lamba,20,1,5.135746843285347
+ORD-1934,2026-01-05,Caitlin Bush,Jonesside,Teknoloji,Klavye,6300,4,1044.0581780079272
+ORD-1935,2024-04-05,Emily Lopez,Taylorberg,Teknoloji,Telefon,13756,4,2553.404503055102
+ORD-1936,2026-02-06,Linda Downs,Wrightburgh,Ofis Malzemeleri,Kalem Seti,996,2,176.15628771655335
+ORD-1937,2024-10-26,Molly Burton,Bethbury,Mobilya,Sandalye,108,2,29.651630485872086
+ORD-1938,2024-07-04,Teresa Fisher,Port Amanda,Teknoloji,Monitör,11708,4,2413.932537265023
+ORD-1939,2025-12-01,Rita Graves,Donnaland,Mobilya,Lamba,275,5,79.13091824687473
+ORD-1940,2024-09-13,Vanessa Avila,Christineton,Teknoloji,Monitör,21455,5,4642.247599086988
+ORD-1941,2025-03-26,Justin Chapman,West Whitney,Ofis Malzemeleri,Dosya,153,1,44.86071243271516
+ORD-1942,2026-02-08,Ryan Olsen,North Katie,Mobilya,Lamba,2155,5,421.2066394294702
+ORD-1943,2024-05-31,Erin Cooper,East James,Teknoloji,Telefon,6111,3,1762.7072783005347
+ORD-1944,2025-04-24,Jasmine Martinez,North Dylan,Ofis Malzemeleri,Kağıt,548,4,121.81989228747287
+ORD-1945,2025-03-25,Taylor Thompson,Port Karen,Ofis Malzemeleri,Kalem Seti,1924,4,369.05203424863674
+ORD-1946,2024-06-27,Renee Fernandez,North Adam,Ofis Malzemeleri,Zımba,2060,5,482.9644287737057
+ORD-1947,2026-01-20,Darin Hess,Shawnmouth,Mobilya,Kitaplık,87,1,13.984186149556296
+ORD-1948,2025-04-09,Daniel Frazier,Lake Colebury,Ofis Malzemeleri,Zımba,2340,5,590.6356492100742
+ORD-1949,2025-12-20,Dr. Lisa Jones,Caitlinmouth,Teknoloji,Telefon,339,3,64.98869467874235
+ORD-1950,2024-10-22,Stacey Parrish,Carneymouth,Teknoloji,Laptop,735,1,100.08297094875542
+ORD-1951,2025-09-02,Edward Miller,North Veronica,Teknoloji,Telefon,5500,2,1349.0250881308261
+ORD-1952,2024-08-31,Ms. Stephanie Moody,Mccoychester,Mobilya,Masa,1800,5,257.40943233916244
+ORD-1953,2024-03-03,Holly Cabrera,Port Bernard,Teknoloji,Telefon,325,1,65.63307111019023
+ORD-1954,2024-08-31,Donald Vasquez,East Jennifer,Ofis Malzemeleri,Zımba,2410,5,544.7338089634334
+ORD-1955,2024-03-07,Jennifer Casey,Courtneyland,Teknoloji,Klavye,15356,4,2328.5943552100334
+ORD-1956,2024-05-09,Robert Wade,East Chadchester,Teknoloji,Telefon,9542,2,2758.437953052256
+ORD-1957,2025-05-02,Kelly Decker,Johnsonstad,Mobilya,Lamba,610,2,96.87190544639591
+ORD-1958,2024-11-29,Patricia Stone,North Sarah,Teknoloji,Telefon,7212,2,869.3410714804855
+ORD-1959,2026-01-16,Rachel Coffey,North Catherine,Mobilya,Kitaplık,460,2,87.88862019918831
+ORD-1960,2024-12-03,Michael Brewer,East Elizabeth,Ofis Malzemeleri,Kağıt,1650,5,401.95511854888844
+ORD-1961,2026-01-26,Kimberly Jacobs,South Kayla,Ofis Malzemeleri,Dosya,280,4,82.2663743917846
+ORD-1962,2024-09-12,Tyrone Weaver,Castanedaside,Teknoloji,Laptop,656,2,83.59117010922135
+ORD-1963,2025-02-20,Matthew Gibbs,Rachaelville,Teknoloji,Telefon,3180,2,415.941298586368
+ORD-1964,2025-08-08,Steve Mills,New Sharonshire,Mobilya,Kitaplık,552,2,152.79568014537415
+ORD-1965,2026-01-13,Mr. John Henson,Port Andrea,Teknoloji,Laptop,9565,5,2360.732759497366
+ORD-1966,2024-08-26,Susan Morgan,Wardhaven,Mobilya,Masa,402,2,106.18721894642086
+ORD-1967,2024-05-20,Shelly Leach,South Johnhaven,Ofis Malzemeleri,Zımba,1310,5,261.19548569653705
+ORD-1968,2025-02-16,Kimberly Beard,Lake Nicholashaven,Teknoloji,Laptop,14307,3,3173.3912672120186
+ORD-1969,2025-11-26,Jennifer Bell,Mcphersonbury,Teknoloji,Klavye,2498,1,273.2025308320114
+ORD-1970,2024-06-06,Laura Lawrence,West Richard,Mobilya,Sandalye,88,1,22.779080147881402
+ORD-1971,2024-07-22,Meghan Lee,Carterport,Ofis Malzemeleri,Zımba,1220,4,196.2761611737682
+ORD-1972,2025-02-17,Latasha Johnson,Samuelburgh,Teknoloji,Monitör,19520,4,3560.7839663825325
+ORD-1973,2024-08-29,Michael Brown,Jennashire,Teknoloji,Laptop,515,5,55.54569258054655
+ORD-1974,2024-06-02,Philip Davis,South Amber,Ofis Malzemeleri,Zımba,1360,5,160.62553651857488
+ORD-1975,2024-12-20,Chad Juarez,North Sarah,Ofis Malzemeleri,Kağıt,1400,4,228.45956100039209
+ORD-1976,2024-08-19,Joshua Myers,Port Jerrystad,Ofis Malzemeleri,Zımba,1568,4,310.20349162727405
+ORD-1977,2024-09-18,Paul Duncan,Phillipton,Teknoloji,Telefon,4242,1,676.9376037322775
+ORD-1978,2025-06-19,Beverly Hall,Lake Darrell,Mobilya,Masa,2380,5,596.3175469758842
+ORD-1979,2026-02-09,Jon Compton,Welchstad,Teknoloji,Klavye,1740,4,256.5635052329747
+ORD-1980,2025-10-02,Anthony Odonnell,Port Lauraborough,Mobilya,Sandalye,65,5,10.790530470282402
+ORD-1981,2024-04-06,Audrey Richardson,North Cynthia,Mobilya,Sandalye,555,3,126.07903772437326
+ORD-1982,2024-07-03,Zachary Reyes,Victorfurt,Mobilya,Lamba,1244,4,129.5561566660584
+ORD-1983,2025-08-02,Ashley Simon,North Megan,Ofis Malzemeleri,Kalem Seti,1395,3,351.32774656541875
+ORD-1984,2026-01-25,Briana Murphy,Grahammouth,Mobilya,Lamba,164,1,18.11811149836823
+ORD-1985,2025-11-27,Justin Moore,East Kathleen,Mobilya,Kitaplık,1410,3,332.4489537012125
+ORD-1986,2024-08-09,John Cobb,Jenkinston,Mobilya,Lamba,435,5,116.46288505564983
+ORD-1987,2024-06-17,Micheal Lewis,New Catherinefurt,Teknoloji,Laptop,8200,4,2407.1388156416865
+ORD-1988,2025-10-19,James Lopez,Robertport,Ofis Malzemeleri,Zımba,1648,4,441.47043906210365
+ORD-1989,2026-02-07,Diane Greene,New Roy,Teknoloji,Telefon,7312,2,1467.8585694248914
+ORD-1990,2024-03-29,Michael Lynn,Port Elizabeth,Ofis Malzemeleri,Zımba,485,5,83.62918753837191
+ORD-1991,2026-02-21,Sarah King,South Marc,Ofis Malzemeleri,Kağıt,1479,3,246.60892409715674
+ORD-1992,2026-01-18,John Baker,Andrewstad,Ofis Malzemeleri,Zımba,1480,4,326.50770186125044
+ORD-1993,2025-04-25,Theresa Clark,Heatherstad,Mobilya,Masa,1083,3,259.97256420457154
+ORD-1994,2025-08-15,Steven Hunt,South Kimberlychester,Ofis Malzemeleri,Dosya,740,2,202.68244641612503
+ORD-1995,2025-06-09,Molly Larson,Lake Kimberlybury,Mobilya,Masa,472,2,84.76795074705528
+ORD-1996,2024-05-24,Michael Edwards,Simmonsbury,Ofis Malzemeleri,Kağıt,456,3,53.076433687645554
+ORD-1997,2025-06-05,Justin Gonzalez,Jamesstad,Mobilya,Sandalye,90,5,15.51756619867032
+ORD-1998,2025-04-11,Melinda Nixon,Hallberg,Ofis Malzemeleri,Zımba,1458,3,194.798692817599
+ORD-1999,2025-09-08,William Newman,Diazfort,Mobilya,Lamba,651,3,171.84267852484336
