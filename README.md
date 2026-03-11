@@ -20,7 +20,7 @@ Projenin temelinde yer alan 1000 satırlık satış verisi, Python'ın `pandas`,
 - **UX/UI Tasarımı:** Kullanıcı dostu, hizalı ve renk uyumlu bir dashboard arayüzü tasarlandı.
 
 ## 📈 Dashboard Görünümü
-![Sales Dashboard](dashboard1.png)
+![Sales Dashboard](dashboard.png)
 
 ## 📂 Proje İçeriği
 - `Salesdata.py`: Veriyi üreten Python scripti.
